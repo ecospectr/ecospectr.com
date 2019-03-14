@@ -1,0 +1,2613 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.ecospectr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2678                
+POS_VISITOR 60129               
+POS_DAY 113867              
+POS_DOMAIN 3706                
+POS_LOGIN 3942                
+POS_ROBOT 4097                
+POS_WORMS 5252                
+POS_EMAILSENDER 5383                
+POS_EMAILRECEIVER 5526                
+POS_SESSION 114814              
+POS_SIDER 115027              
+POS_FILETYPES 5661                
+POS_DOWNLOADS 6005                
+POS_OS 6109                
+POS_BROWSER 6568                
+POS_SCREENSIZE 11179               
+POS_UNKNOWNREFERER 11253               
+POS_UNKNOWNREFERERBROWSER 11694               
+POS_ORIGIN 11910               
+POS_SEREFERRALS 12066               
+POS_PAGEREFS 12246               
+POS_SEARCHWORDS 12691               
+POS_KEYWORDS 12942               
+POS_MISC 2341                
+POS_ERRORS 13100               
+POS_CLUSTER 3798                
+POS_SIDER_404 13261               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201001838 1 0 9477572313141
+FirstTime 20171101000000
+LastTime 20171130231237
+LastUpdate 20171202001707 1 0 0 0 0
+TotalVisits 1958                
+TotalUnique 1221                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1444                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 80 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1584 2337 36350179 180 423 19512444
+1 1643 2170 28708230 84 268 8954459
+2 2261 2481 24768213 74 155 5861163
+3 2366 2509 28307783 80 323 7577086
+4 2357 2512 15846490 109 356 13992280
+5 4161 4618 41179310 159 313 13141400
+6 2118 2391 18233192 115 329 12971150
+7 1231 1608 22860076 270 498 35758524
+8 886 1228 22246047 241 444 18220523
+9 1037 1456 33882144 73 338 27512545
+10 1543 2077 30684058 64 233 10192552
+11 1018 2124 59337934 117 383 14727384
+12 4829 5912 87439026 114 224 9802043
+13 4663 5362 47096212 190 382 19859556
+14 548 765 17496511 250 392 19163805
+15 943 2398 67499876 325 462 18798217
+16 195 1174 45911833 123 444 12822238
+17 312 1117 35800019 111 322 23045986
+18 305 1165 45895065 88 302 30153198
+19 228 1224 50530437 69 302 25486924
+20 2025 2837 43471384 352 551 26490176
+21 4579 5516 55163495 74 252 13729558
+22 427 1248 36776356 84 246 12231738
+23 175 882 29692194 95 284 13481891
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 41434 57111 925176064
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 27
+yandex 1804 45575490 20171130185506 200
+bingbot 727 24639947 20171130164335 48
+facebook 658 214139205 20171130230525 0
+googlebot 632 16653395 20171130231356 32
+wordpress 527 140784 20171130231238 0
+mj12bot 301 8781464 20171130153827 89
+bingpreview 203 7887248 20171130174451 0
+no_user_agent 181 35054634 20171129121627 0
+crawl 177 8282976 20171118205823 1
+dotbot 112 4110932 20171125005226 56
+ia_archiver 4 120587 20171107081457 1
+netcraft 1 51953 20171111184641 0
+grapeshot 2 51793 20171105070307 1
+googlebot\-image 106 11283221 20171130165155 0
+archive\.org_bot 2 134 20171113052506 2
+dataprovider\.com 12 474942 20171126074819 1
+mail\.ru 7 155446 20171103034206 4
+unknown 15 1005 20171130165635 15
+cfnetwork 2 1827983 20171115083636 0
+ips\-agent 12 391576 20171104062831 2
+surveybot 4 103799 20171121073552 2
+python 3 0 20171122023207 0
+bot[\s_+:,\.\;\/\\-] 87 3427460 20171123175207 2
+feedburner 56 342460 20171130095440 0
+proximic 1 67 20171122145653 1
+xovibot 6 312928 20171123072518 0
+wget 1 51726 20171107114251 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+png 1745 228189250 0 0
+eot 13 671960 0 0
+Unknown 20 14248 0 0
+js 6580 209295677 0 0
+xml 8 7315 0 0
+txt 2 1590 0 0
+jpg 1538 93361685 0 0
+woff 147 8412400 0 0
+svg 3 4563 0 0
+html 960 47358612 0 0
+php 40286 206681830 0 0
+gif 57 466967 0 0
+jpeg 43 1192052 0 0
+css 5709 129517915 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/contact-form-7/license.txt 2 0 1590
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 27
+linux 242 121
+macosx6 148 147
+macosx11 56 3
+winlong 2676 1233
+win7 29620 23397
+unix 1 1
+macosx4 10 10
+Unknown 96 16
+linuxubuntu 143 19
+linuxandroid 12039 10280
+winunknown 2 2
+winxp 2164 467
+macosx9 1 0
+win10 6224 5090
+win2003 10 10
+j2me 62 3
+winphone 65 5
+ios_iphone 2055 295
+winnt 2 1
+macosx10 2 1
+win2000 20 20
+ios_ipad 318 197
+win8 598 43
+win8.1 522 47
+macosx5 3 3
+macosx 31 23
+macosx8 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 211
+chrome57.4.9778.4041 1 1
+iphone 721 199
+chrome57.5.0290.6562 1 1
+opera12.01 162 13
+chrome53.7.2568.8831 1 1
+chrome34.0.1847.116 1 1
+safari5.3.8 2 2
+firefox55.0 4 1
+chrome45.0.2454.93 8 8
+chrome13.0.766.0 1 1
+chrome31.0.1650.57 4 4
+msie7.0 3 2
+chrome51.0.2704.79 57 4
+chrome53.0.2785.143 63 12
+chrome51.0.2704.106 2 1
+opera42.0.5951.0788 1 1
+msie11.0 83 15
+chrome50.0.2661.75 21 21
+firefox48.0 385 327
+firefox23.0 108 108
+chrome36.0.1985.143 2 2
+chrome55.0.0.12195 2 1
+chrome58.0.3029.83 80 9
+chrome38.0.2125.104 1 0
+chrome23.0.1271.6 1 1
+chrome53.7.3306.8678 1 1
+safari4.7.2 3 3
+safari5.6.1 1 1
+chrome28.1.1500.75 1 0
+chrome54.8.3731.8003 1 1
+chrome62.0.3202.75 886 135
+chrome57.5.1036.6308 1 1
+chrome47.0.2526.35 4 4
+chrome56.3.7671.2308 1 1
+chrome33.0.1750.146 2 2
+firefox57.0 76 5
+opera48.0.2685.35 61 3
+chrome53.6.1044.5772 1 1
+chrome50.0.2661.102 74 4
+firefox3.6.8 145 145
+opera49.0.2725.47 65 4
+opera19.0.1340.71596 1 0
+chrome62.0.3202.73 112 16
+safari4.6.2 2 2
+firefox38.0 11 11
+chrome39.0.0.0 7 7
+opera42.0.5799.9427 1 1
+safari 436 203
+safari5.4.9 2 2
+opera10.00 1 1
+chrome56.2.7160.2898 1 1
+firefox3.0.2 90 90
+chrome57.0.2987.133 3 3
+chrome56.2.7011.2749 1 1
+chrome54.0.2840.71 59 7
+chrome50.0.2661.89 70 7
+firefox18.0 9343 9343
+chrome47.0.2526.69 1 0
+chrome11.0.655.0 1 0
+chrome60.0.3112.107 2 2
+chrome60.0.3112.113 218 44
+opera44.0.2510.857 1 1
+chrome57.5.0968.5696 1 1
+opera12.16 168 10
+firefox40.0 56 5
+firefox29.0 35 35
+firefox45.71.24 1 1
+opera43.0.2442.1144 2 2
+opera41.9.3256.8984 2 2
+chrome55.0.2883.91 1 1
+opera48.0.2685.39 63 3
+chrome59.0.3071.125 229 21
+chrome56.2.7017.2745 1 1
+chrome47.0.1335.75 3 3
+firefox45.75.28 1 1
+firefox52.50.03 1 1
+firefox52.53.06 1 1
+chrome63.0.3239.40 1 0
+firefox45.66.13 1 1
+firefox16.0 2 2
+firefox45.62.09 1 1
+firefox51.0 66 6
+chrome44.0.2403.146 7 7
+chrome57.0.2987.137 57 3
+firefox54.0 2 0
+chrome61.0.3163.98 426 41
+opera11.10 62 3
+firefox45.60.07 1 1
+chrome40.0.2214.124 2 2
+msie6.0 21 21
+opera49.0.2725.39 62 4
+safari4.6.1 4 4
+chrome33.0.1750.154 1 1
+chrome34.0.1847.137 1 1
+chrome53.5.0729.5456 1 1
+firefox40.1 4 4
+firefox45.73.25 1 1
+opera11.61 6 6
+firefox45.64.17 1 1
+safari11.0.1 3 0
+chrome62.0.3202.62 327 35
+chrome58.0.3029.110 6 3
+firefox3.5.6 2 2
+chrome32.0.1700.107 2 2
+chrome57.5.0034.5306 1 1
+chrome55.0.2883.75 1 1
+chrome57.5.0085.5257 1 1
+android 10149 10088
+firefox43.0 5 4
+firefox49.0 2 2
+chrome56.2.7450.2188 1 1
+chrome38.0.2125.102 1 0
+chrome60.0.3112.90 1 0
+firefox52.0 64 10
+chrome56.1.2924.71 58 4
+chrome44.0.2403.89 1 1
+chrome11.0.678.0 1 0
+firefox52.50.08 1 1
+chrome57.5.0529.5892 1 1
+safari11.0 702 51
+chrome56.1.6134.1862 1 1
+opera40.6.1520.6892 1 1
+safari10.0 258 16
+chrome53.8.3551.8823 1 1
+opera36.0.2130.80 1 0
+chrome57.5.0365.5193 1 1
+opera48.0.2685.52 151 10
+firefox53.0 1 1
+chrome56.2.7810.2548 1 1
+chrome64.0.3253.3 1 0
+firefox45.69.12 1 1
+chrome53.6.1965.7238 1 1
+chrome49.0.2623.112 1722 296
+firefox27.0 2 2
+chrome54.8.3628.8990 1 1
+opera40.0.2308.81 1 1
+safari5.2.7 4 4
+opera40.6.1040.6312 3 3
+netscape5.0 8 8
+opera44.5.0464.5737 1 1
+safari10.1.2 1 0
+chrome33.0.0.0 63 4
+chrome57.5.9173.4801 1 1
+chrome57.5.9813.4540 1 1
+opera42.0.4534.9261 1 1
+chrome45.0.2454.94 2 1
+opera44.5.0923.5296 1 1
+safari8.0 315 22
+firefox45.70.22 1 1
+chrome57.4.9415.5787 1 1
+chrome45.0.2454.101 1 1
+chrome55.1.6777.1405 1 1
+opera36.0.2130.32 8 8
+chrome59.0.3071.115 2 1
+msie9.0 15507 13210
+opera8.74 1 1
+chrome44.0.2403.157 61 3
+opera44.5.0708.6070 1 1
+chrome61.0.3163.100 6203 4766
+opera8.66 1 1
+firefox45.64.27 1 1
+chrome53.6.1899.7161 1 1
+opera8.50 1 1
+chrome53.6.1635.7907 1 1
+chrome36.0.1985.125 53 6
+chrome38.0.2125.101 1 0
+chrome60.0.3112.78 1 0
+firefox12.0 1 0
+chrome53.5.0857.5585 1 1
+chrome51.0.2704.103 6 6
+firefox52.53.90 1 1
+firefox34.0 1136 1136
+chrome34.0.1847.76 1 1
+firefox3.6.2 1 1
+chrome53.0.2785.89 205 205
+firefox56.0 296 16
+chrome57.0.2987.132 3 3
+safari5.4.8 2 2
+chrome30.0.0.0 134 8
+chrome62.0.3202.94 1721 197
+chrome56.2.7194.2822 1 1
+chrome13.0.782.43 1 1
+firefox32.0 2 1
+chrome53.0.2785.116 4 4
+chrome62.0.3202.84 746 62
+opera7.65 1 1
+firefox3.0.7 1 1
+chrome40.0.2214.114 1 1
+firefox50.0 6 6
+chrome59.0.3071.86 69 8
+opera44.5.1648.6910 1 1
+firefox33.0 3 3
+chrome62.0.3202.89 11 0
+safari9.0 4 4
+chrome57.5.0350.4188 1 1
+opera35.0.2066.68 4 0
+chrome57.5.0733.5461 1 1
+firefox52.46.93 1 1
+chrome56.2.7976.2604 1 1
+chrome37.0.2062.124 2 0
+chrome26.0.1410.63 1 1
+chrome56.0.2924.87 8 6
+chrome52.0.2743.116 72 7
+Unknown 4 4
+safari10.1.1 1 1
+chrome56.1.6683.1311 1 1
+chrome55.1.6655.0383 1 1
+msie10.0 1179 72
+firefox45.78.21 2 2
+msie8.0 1053 81
+opera42.1.5309.0037 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20171121210915
+WhatsApp/2.17.51_i 20171115131106
+wp-android 20171129130044
+Opera/9.80_(Android;_Opera_Mini/27.0.2254/76.201;_U;_ru)_Presto/2.12.423_Version/12.16 20171128105721
+Go-http-client/1.1 20171115035533
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/447;_U;_en)_Presto/2.4.18_Version/10.00 20171114235637
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Windows_Live_Writer 20171129013500
+WhatsApp/2.17.51_i 20171115131106
+Go-http-client/1.1 20171115035533
+wp-windowsphone 20171130135620
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17144 17257
+From1 29 29
+From2 140 308
+From3 381 412
+From4 23740 39105
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 80 236
+bing 1 1
+yandex 59 71
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://m.facebook.com 245 245
+http://spektr.dp.ua/wp-login.php 125 125
+https://www.facebook.com 5 5
+https://m.facebook.com 2 2
+https://l.facebook.com 2 2
+http://www.phpdevops.com 1 1
+https://lm.facebook.com 1 1
+http://u-news.org.ua/9613-sonyachna-elektrostanciya-chi-depozit-shho-vigidnishe/ 0 31
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%be%d1%82%d0%be%d0%bf%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%be%d1%82%d0%be%d0%bf%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 46 0
+500 8 2480
+301 267 238
+403 3 719
+404 2133 24596964
+405 6 210
+206 40 5023074
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 481
+/wp-content/plugins/woocommerce-product-options/includes/image-upload.php 2 -
+/user/ 13 -
+/libraries/cms.php 1 -
+/fr/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 8 -
+/fr/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 8 -
+/ru/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 7 -
+/wp-content/uploads/%D0%93%D0%B5%D0%BB%D0%B5%D0%BE%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8-1200%D1%85800-80x80@2x.jpg 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-depozitu-v-banke/
+/wp-content/plugins/userpro/css/userpro-editor.css 1 -
+/tiny_mce/plugins/tinybrowser/upload_file.php 2 -
+/fr/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 8 -
+/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 8 -
+/wp-content/plugins/cherry-plugin/admin/import-export/xo.php 1 -
+/de/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 8 -
+/Maggis.php 1 -
+/ru/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 8 -
+/wp-content/uploads/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8-1200%D1%85800-1200x480@2x.jpg 3 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-4/
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-2-1200%25D1%2585800-960x750@2x.jpg 1 http://ecospectr.com/mercedes-benz-investuye-1-mlrd-dolariv-v-amerikanske-virobnictvo-elektrokariv/
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D1%80-vs-%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4-1200%D1%85800-80x80@2x.jpg 1 http://ecospectr.com/samaya-bolshaya-batarejka/
+/de/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 8 -
+/beck/cron.php 2 -
+/wp-content/uploads/2015/03/home_university_tabber_3@2x.jpg 7 http://ecospectr.com/
+/fr/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 7 -
+/wp-content/plugins/LayerSlider/static/%20codemirror/lib/codemirror.js 1 http://ecospectr.com/wp-admin/admin.php
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 10 -
+/pcodvi.php 1 -
+/wp-content/plugins/wp-easy-gallery-pro/admin/php.php 1 http://ecospectr.com/wp-content/plugins/wp-easy-gallery-pro/admin/php.php
+/de/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 8 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 http://ecospectr.com/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/infos.php 2 ecospectr.com
+/..php 1 -
+/wp-content/uploads/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84@2x.png 6 http://ecospectr.com/solnce/zelyonyj-tarif/
+/blog/xmlrpc.php 2 -
+/wp-content/uploads/image-1-80x80.jpg 2 -
+/wp-content/uploads/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-ECOSPECTR-1200x480@2x.png 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/sites/all/libraries/elfinder/php/connector.minimal.php 2 -
+/wp-content/uploads/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F-%25D0%25B3%25D0%25B0%25D0%25B7%25D0%25B0-80x80@2x.jpg 1 http://ecospectr.com/mercedes-benz-investuye-1-mlrd-dolariv-v-amerikanske-virobnictvo-elektrokariv/
+/wp-content/uploads/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-Nissan-Leaf@2x.jpg 7 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0-80x80@2x.jpg 1 http://ecospectr.com/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/
+/wp-includes/pomo/vendor.php 2 ecospectr.com
+/apple-touch-icon-120x120.png 2 -
+/wp-content/themes/amoveo/includes/fileuploader/upload_handler.php 1 http://ecospectr.com/wp-content/themes/amoveo/includes/fileuploader/upload_handler.php
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/plugins/custom-css-js/assets/codemirror/suspect.sys.php 1 -
+/3.php 1 -
+/wp-content/uploads/sfn.php 2 -
+/wp-content/uploads/Installing-Solar-Panels-544%25D1%2585385@2x.jpg 2 http://ecospectr.com/
+/wp-content/plugins/accesspress-anonymous-post-pro/documentation/index.html 1 ecospectr.com
+/wp-content/uploads/%D0%97%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%BD%D0%B0-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D1%8B@2x.jpg 7 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/uploads/%25D0%259Cercedes-benz-concept-eq-electric-mobility-1200%25D1%2585800-80x80@2x.jpg 11 http://ecospectr.com/elektrozashhita/audit/
+/modules/modules.php 1 ecospectr.com
+/fr/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 8 -
+/ashdusc.php 1 -
+/wp-content/plugins/myshe.php 1 ecospectr.com
+/images/CONFIGURATIONS.php 1 ecospectr.com
+/wp-content/uploads/types-of-solar-panels-960x750@2x.jpg 17 http://ecospectr.com/
+/google.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 2 -
+/hsgcxbf.php 1 -
+/de/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 8 -
+/wp-includes/pomo/index.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/es/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/dumper/dumper.php 1 -
+/wp-content/upgrade/theme-compat/11.php 1 ecospectr.com
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-1@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-admin/includes/lock46.php 1 ecospectr.com
+/wp-includes/js/tinymce/global.php 1 ecospectr.com
+/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 ecospectr.com
+/wp-init.php 1 -
+/wp-content/uploads/types-of-solar-panels-80x80@2x.jpg 5 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/11.php 1 ecospectr.com
+/wp-content/plugins/userpro-mediamanager/changelog.txt 1 ecospectr.com
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/ 19 -
+/wp-content/uploads/image-960x750@2x.jpeg 1 http://ecospectr.com/tag/bliskavkozaxist/
+/fr/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 7 -
+/wp-content/uploads/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-www.ecospectr.com_-1200x480@2x.jpg 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/admin/login.php 12 -
+/wp-content/uploads/%D0%A2%D0%B0%D0%BA-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B6%D0%B8%D1%82%D1%8C-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%86%D1%8B-960x750@2x.jpeg 1 http://ecospectr.com/tag/bliskavkozaxist/
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/wp-includes/js/tinymce/plugins/wpview/diff.php 1 ecospectr.com
+/es/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 7 -
+/images/ini_db_model.php 1 ecospectr.com
+/wp-content/plugins/userpro/functions/_trial.php 2 ecospectr.com
+/5.php 1 -
+/admin.php 12 -
+/wp-content/uploads/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8-1200%D1%85800-80x80@2x.jpg 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/downloader/ 1 -
+/wp-content/uploads/226@2x.jpg 17 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/ru/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 9 -
+/ru/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 8 -
+/wp-content/uploads/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D0%B3%D0%B0%D0%B7%D0%B0-80x80@2x.jpg 3 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-4/
+/ru/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 9 -
+/wp-content/uploads/Gas_Electricity_Split_544%D1%85385@2x.jpg 4 http://ecospectr.com/
+/wp-content/plugins/userpro/css/lightview/lightview.css 1 ecospectr.com
+/wp-content/uploads/%25D0%25A2%25D0%25B0%25D0%25BA-%25D0%25B4%25D0%25BE%25D0%25BB%25D0%25B6%25D0%25BD%25D1%258B-%25D0%25B6%25D0%25B8%25D1%2582%25D1%258C-%25D1%2583%25D0%25BA%25D1%2580%25D0%25B0%25D0%25B8%25D0%25BD%25D1%2586%25D1%258B-80x80@2x.jpeg 3 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/wp-admin/includes/file-editor.php 1 ecospectr.com
+/wp-content/indexx.php 1 -
+/wp-content/themes/formation/js/flexslider-init.js 1 http://ecospectr.com/
+/de/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 2 -
+/ru/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 8 -
+/wp-content/themes/formation/js/flexslider.css 1 http://ecospectr.com/
+/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 9 -
+/6.php 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F-%25D0%25B3%25D0%25B0%25D0%25B7%25D0%25B0-960x750@2x.jpg 3 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/ru/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 8 -
+/ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 7 -
+/wp-admin/maint/index.php 2 -
+/wp-content/uploader.php.suspected 1 http://ecospectr.com/wp-content/uploader.php.suspected
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%258D%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B3%25D0%25B8%25D0%25B8-1200%25D1%2585 4 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/sfn.php 2 -
+/dep.php 1 -
+/wp-content/plugins/wp-symposium/server/php/lYsLszqxtVCwrg.php 2 195.248.190.128
+/license.php 2 -
+/options.php 1 ecospectr.com
+/wp-includes/pomo/7313581d9a.php 1 -
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/page/4/ 8 -
+/wp-content/uploads/%D0%A2%D0%B0%D0%BA-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B6%D0%B8%D1%82%D1%8C-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%86%D1%8B-80x80@2x.jpeg 3 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/wp-content/uploads/%25D0%2598%25D0%25BD%25D0%25B2%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2586%25D0%25B8%25D0%25B8-544%25D1%2585385@2x.jpg 2 http://ecospectr.com/
+/fr/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 7 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-2-1200%D1%85800-1200x480@2x.jpg 2 http://ecospectr.com/rozetka-protiv-zapravki-gde-i-kak-zaryazhat-elektroavtomobil/
+/vendor/symfony/console/Tests/Helper/ProgressIndicatorTest.php 1 ecospectr.com
+/wp-content/plugins/szalog.php 1 ecospectr.com
+/wp-content/plugins/revslider/sfn.php 2 -
+/wp-content/plugins/easyrotator-for-wordpress/prv8.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/sfn.php 2 -
+/2.php.suspected 1 -
+/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 8 -
+/wp-content/uploads/%D0%94%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-1200x800-ecospectr.com_-80x80@2x.jpg 12 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-4/
+/de/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 8 -
+/yt.php 1 -
+/de/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 8 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-admin/network/rnnvhs.php 1 ecospectr.com
+/10-2/ 3 -
+/wp-content/uploads/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8-1200%D1%85800-960x750@2x.jpg 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/uploads/%D0%9Cercedes-benz-concept-eq-electric-mobility-1200%D1%85800-960x750@2x.jpg 9 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-admin/includes/static-template.php 2 ecospectr.com
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/de/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 8 -
+/wp-content/uploads/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F-%25D0%25B3%25D0%25B0%25D0%25B7%25D0%25B0-1200x480@2x.jpg 1 http://ecospectr.com/kak-ekonomit-gaz/
+/components/com_foxcontact/_func.php 2 -
+/wp-includes/class.wp-times.php 1 ecospectr.com
+/wp-content/plugins/revslider/settings/generas_settings.php 1 ecospectr.com
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-5@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/ru/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 8 -
+/wp-content/uploads/types-of-solar-panels-1200x480@2x.jpg 9 http://ecospectr.com/yurist-iz-dnepra-rasskazal-o-tom-kak-mozhno-zarabatyvat-na-prodazhe-elektroenergii-ustanoviv-na-kryshe-svoego-doma-solnechnye-paneli/
+/Msincs.php 1 -
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B8-%25D1%2582%25D0%25B5%25D0%25BF%25D0%25BB%25D0%25BE-%25D0%25B2-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5-www.ecospectr.com_-80x80@2x.jpg 10 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/uploads/banner2@2x.png 6 http://ecospectr.com/
+/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 8 -
+/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-1200%D1%85400@2x.jpg 3 http://ecospectr.com/otoplenie/montazh-elektrootopleniya/
+/wp-includes/nav-menu-page.php 1 ecospectr.com
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 2 -
+/,.php 1 -
+/fr/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 8 -
+/wp-content/modx.php 1 http://ecospectr.com/wp-content/modx.php
+/wp-content/uploads/tesla-elon-musk-1200%25D1%2585800-80x80@2x.jpg 1 http://ecospectr.com/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/
+/wp-content/plugins/wp-cache.php 1 ecospectr.com
+/wp-content/uploads/%D0%9E%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B0%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B0-%D1%81-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D 2 http://ecospectr.com/solnce/solnechnye-kollektory/
+/wp-content/uploads/bmw_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png 1 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/es/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 7 -
+/wp-content/wp-object-cache.php 1 ecospectr.com
+/wp-includes/css/modules.php 1 -
+/wp-content/uploads/%25D0%2594%25D0%25BD%25D0%25B5%25D0%25B6%25D0%25BD%25D0%25BE%25D0%25B5-%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B2%25D0%25BE-1200x800-ecospectr.com_-80x80@2x.jpg 2 http://ecospectr.com/yurist-iz-dnepra-rasskazal-o-tom-kak-mozhno-zarabatyvat-na-prodazhe-elektroenergii-ustanoviv-na-kryshe-svoego-doma-solnechnye-paneli/
+/wp-content/uploads/%D1%83%D0%BA%D1%80%D0%B3%D0%B0%D0%B7%D0%B1%D0%B0%D0%BD%D0%BA-1200%D1%85800-1200x480@2x.jpg 2 http://ecospectr.com/kredity-na-solnechnuyu-stanciyu-pod-001-v-god/
+/de/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 8 -
+/wp-content/plugins/easyrotator-for-wordpress/up.php 1 -
+/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/null 1 -
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/page/2/ 10 -
+/wp-index.php 1 ecospectr.com
+/db_z.php 1 ecospectr.com
+/searchreplacedb2.php 1 ecospectr.com
+/ru/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 9 -
+/wp-includes/output.php 1 -
+/wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php 2 -
+/ghfhvvaw.php 1 ecospectr.com
+/imnus.php 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/uploads/%25D0%259Cercedes-benz-concept-eq-electric-mobility-1200%25D1%2585800-960x750@2x.jpg 10 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-admin/includes/index.php 2 -
+/wp-content/themes/template-parts/content-single.php 1 -
+/wp-content/themes/formation/js/smoothscroll.js 1 http://ecospectr.com/
+/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 8 -
+/wp-content/plugins/recent-backups/download-file.php 2 -
+/ru/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 9 -
+/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/Dducfj.php 1 -
+/wp-content/uploads/%25D0%2590%25D1%2583%25D0%25B4%25D0%25B8%25D1%2582-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%2581%25D0%25B5%25D1%2582%25D0%25B5%25D0%25B9.-2-1200x480@2x.jpg 1 http://ecospectr.com/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/
+/wp-content/themes/twentythirteen/404.php 2 -
+/administrator/ 12 -
+/wp-content/uploads/%D0%93%D0%B5%D0%BB%D0%B8%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-1200%D1%85800-1024x683@2x.jpg 2 http://ecospectr.com/solnce/solnechnye-kollektory/
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-content/uploads/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9-1200x584@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/uploads/%25D0%2590%25D0%25BA%25D0%25BA%25D1%2583%25D0%25BC%25D1%2583%25D0%25BB%25D1%258F%25D1%2582%25D0%25BE%25D1%2580-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BC%25D0%25BE%25D0%25B1%25D0%25B8%25D0%25BB%25D1 20 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/wp-admin/home.bak.php 2 -
+/templates/protostar/js/templateDetails.php 1 ecospectr.com
+/wp-includes/pomo/w7388n.php 1 ecospectr.com
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-6@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/themes/formation/style.css 1 http://ecospectr.com/
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/maps.php 1 -
+/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/ 8 -
+/nimas.php 1 -
+/fonts.googleapis.com 1 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 2 -
+/fr/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 8 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/nimod/nimod.php 2 ecospectr.com
+/apple-touch-icon-120x120-precomposed.png 3 -
+/cache.php 1 ecospectr.com
+/wp-content/uploads/%D0%98%D0%BD%D1%81%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%96-1200%D1%85800-80x80@2x.jpg 2 http://ecospectr.com/rozetka-protiv-zapravki-gde-i-kak-zaryazhat-elektroavtomobil/
+/wp-content/uploads/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B3-2-80x80@2x.jpg 2 http://ecospectr.com/kredity-na-solnechnuyu-stanciyu-pod-001-v-god/
+/wp-cache.php 1 ecospectr.com
+/wp-content/uploads/2015/03/home_university_tabber_5@2x.jpg 7 http://ecospectr.com/
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/mxl.php 1 ecospectr.com
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 -
+/modules/attributewizardpro/file_upload.php 1 -
+/wp-content/uploads/fb_icon@2x.png 4 http://ecospectr.com/contact/
+/wp-content/plugins/wooebay/modules/remote_support/remote_tunnel.php 1 -
+/indax.php 1 ecospectr.com
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-includes/class.wp.php 3 ecospectr.com
+/login.php 1 http://ecospectr.com/login.php
+/wp-admin/uploader.php 1 ecospectr.com
+/uploadify/uploadify.php 2 -
+/wp-content/plugins/contact-form-7/images/ajax-loader@2x.gif 4 http://ecospectr.com/contact/
+/wp-content/plugins/upgrade-network.php 1 ecospectr.com
+/wp-content/themes/porto/images/rss.php 1 ecospectr.com
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-2@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/stats.php 1 -
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 1 http://ecospectr.com/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php
+/wp-includes/css/login_wall.php 1 ecospectr.com
+/wp-content/uploads/image-80x80@2x.jpg 1 http://ecospectr.com/samaya-bolshaya-batarejka/
+/ads.txt 4 -
+/random.php 3 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-4@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/plugins/wpfoot.php 1 ecospectr.com
+/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 8 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/es/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 8 -
+/s.w.org 1 -
+/7.php 1 -
+/de/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 8 -
+/wp-info.php 1 -
+/veter/zelyonyj-tarif__trashed/ 1 -
+/es/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 8 -
+/fr/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 10 -
+/wp-content/uploads/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F-%25D0%25B3%25D0%25B0%25D0%25B7%25D0%25B0-www.ecospectr.com-1200%25D1%2585800-1200x480@2x.jpg 1 http://ecospectr.com/kak-sekonomit-na-otoplenii-gazom/
+/wp-content/uploads/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-NISSAN-LEAF@2x.jpg 2 http://ecospectr.com/avto/elektroavtomobili/
+/es/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 8 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/plugins/wp-mobile-detector/resize.php 2 -
+/wp-includes/pomo/nimod.php 2 ecospectr.com
+/wp-content/plugins/easyrotator-for-wordpress/readme.txt 1 http://ecospectr.com/wp-content/plugins/easyrotator-for-wordpress/readme.txt
+/wp-admin/includes/rnnvhs.php 1 ecospectr.com
+/azra.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/b.php 1 ecospectr.com
+/wp-content/plugins/rnnvhs.php 1 ecospectr.com
+/tmp/rss.php 1 ecospectr.com
+/wp-includes/class.wp-tmps.php 1 ecospectr.com
+/wp-content/themes/formation/js/keyboard-image-navigation.js 1 http://ecospectr.com/
+/wp-includes/wp-pages.lib.php 1 ecospectr.com
+/wp-content/uploads/%D0%9Cercedes-benz-concept-eq-electric-mobility-1200%D1%85800-80x80@2x.jpg 7 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/uploads/bb.php 1 ecospectr.com
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 8 -
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B8-%25D1%2582%25D0%25B5%25D0%25BF%25D0%25BB%25D0%25BE-%25D0%25B2-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5-www.ecospectr.com_-1200x480@2x.jpg 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/ru/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 8 -
+/wp-content/plugins/easyrotator-for-wordpress/bb.php 1 ecospectr.com
+/wp-content/uploads/Gas_Electricity_Split_544%25D1%2585385@2x.jpg 2 http://ecospectr.com/
+/de/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/libraries/joomla/application/joomla-app.php 1 ecospectr.com
+/wp-content/plugins/./simple-image-manipulator/controller/download.php 2 -
+/de/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 8 -
+/sitemap.xml 2 -
+/wp-content/themes/ut-strange/addpress/css/style.css 1 http://ecospectr.com/wp-content/themes/ut-strange/addpress/css/style.css
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 2 -
+/6c3feced5fe97be15edcefad3cdc76e7.php 2 ecospectr.com
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 2 -
+/de/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 8 -
+/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/readme.txt 1 ecospectr.com
+/axmlprc.php 1 -
+/wp-content/uploads/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D0%B5%D1%82%D1%80%D0%B0-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-www.ecospectr.com_@2x.gif 2 http://ecospectr.com/veter/montazh-vetrogeneratorov/
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-1200%D1%85800-80x80@2x.jpg 2 http://ecospectr.com/rozetka-protiv-zapravki-gde-i-kak-zaryazhat-elektroavtomobil/
+/de/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 8 -
+/es/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 8 -
+/axt.php 1 -
+/wp-includes/theme-compat/comay.php 1 -
+/wp-admin/includes/class-wp-text.php 1 ecospectr.com
+/configbak.php 1 -
+/wp-content/plugins/wp-symposium/server/php/PfQnSfuTpFwvSz.php 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 2 -
+/wp-includes/LICENSE.php 1 ecospectr.com
+/wp-content/plugins/wp-symposium/server/php/index.php 2 -
+/cpanel.php 1 -
+/wp-content/uploads/logo_main@2x.png 203 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/config.php 1 -
+/wp-content/themes/bulteno-theme/functions/Readme!.txt 4 http://ecospectr.com/wp-content/themes/bulteno-theme/functions/Readme!.txt
+/es/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/object-cache.php 1 ecospectr.com
+/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 9 -
+/wp-content/uploads/%25D0%259Cercedes-benz-concept-eq-electric-mobility-1200%25D1%2585800-1200x480@2x.jpg 1 http://ecospectr.com/mercedes-benz-investuye-1-mlrd-dolariv-v-amerikanske-virobnictvo-elektrokariv/
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-5@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-3@2x.jpg 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/language.php 1 -
+/fr/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-2-1200%D1%85800-80x80@2x.jpg 3 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/wp-content/themes/botanica-theme/style.css 4 http://ecospectr.com/wp-content/themes/botanica-theme/style.css
+/abc.php 1 ecospectr.com
+/es/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 9 -
+/wp-content/uploads/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-www.ecospectr.com_-960x750@2x.jpg 31 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/3.php.suspected 1 -
+/wp-includes/Text/index.php 1 ecospectr.com
+/Xudfel.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/6.php.suspected 1 -
+/de/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 8 -
+/wp-content/uploads/%25D0%25A0%25D0%25B5%25D0%25BC%25D0%25BE%25D0%25BD%25D1%2582-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BA%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B2-Nissan-Leaf@2x.jpg 10 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php 1 http://ecospectr.com/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php
+/5.php.suspected 1 -
+/wp-content/themes/error-log.php 1 ecospectr.com
+/wp-content/uploads/Installing-Solar-Panels-544%D1%85385@2x.jpg 4 http://ecospectr.com/
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/page/5/ 11 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/ru/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 8 -
+/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 8 -
+/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 8 -
+/wp-content/uploads/%25D0%2594%25D0%25BD%25D0%25B5%25D0%25B6%25D0%25BD%25D0%25BE%25D0%25B5-%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B2%25D0%25BE-1200x800-ecospectr.com_-960x750@2x.jpg 19 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/4.php.suspected 1 -
+/fr/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 8 -
+/wordpress/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 ecospectr.com
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/page/3/ 10 -
+/wp-content/uploads/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%842@2x.jpg 6 http://ecospectr.com/solnce/zelyonyj-tarif/
+/wp-includes/class-comments.php 1 ecospectr.com
+/wp-kidmx.php 1 -
+/wp-content/uploads/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F-%D0%90%D0%9A%D0%91-80x80@2x.png 1 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/
+/xmlrpc-activate.php 1 -
+/wp-content/uploads/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-Tesla-Powerpack-1200%D1%85800-1200x480@2x.jpg 1 http://ecospectr.com/samaya-bolshaya-batarejka/
+/es/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 9 -
+/wp-content/border.php 1 ecospectr.com
+/fr/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 7 -
+/lol.php 1 -
+/es/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 7 -
+/wp-content/uploads/%D0%A2%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82-80x80@2x.jpg 2 http://ecospectr.com/kredity-na-solnechnuyu-stanciyu-pod-001-v-god/
+/wp-content/uploads/IMG_9658-960x750@2x.jpg 1 http://ecospectr.com/mercedes-benz-investuye-1-mlrd-dolariv-v-amerikanske-virobnictvo-elektrokariv/
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/fr/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 8 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B8-%25D1%2582%25D0%25B5%25D0%25BF%25D0%25BB%25D0%25BE-%25D0%25B2-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5-www.ecospectr.com_-960x750@2x.jpg 20 http://ecospectr.com/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/
+/hivcxa.php 1 ecospectr.com
+/wp-content/uploads/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84-1200%D1%85400@2x.jpg 6 http://ecospectr.com/solnce/zelyonyj-tarif/
+/de/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 8 -
+/wp-content/uploads/NISSAN-LEAF-1200x400@2x.jpg 2 http://ecospectr.com/avto/elektroavtomobili/
+/wp-content/uploads/Leaf-www.ecospectr.com_@2x.jpg 17 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/fr/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 8 -
+/apple-touch-icon.png 3 -
+/wp-content/plugins/vendor/vendor.php 2 ecospectr.com
+/wp-content/uploads/youtube_icon@2x.png 4 http://ecospectr.com/contact/
+/4.php 1 -
+/bubu.php 1 -
+/wp-content/uploads/bmw-i3-94-ah_1600x0w@2x.jpg 17 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-admin/ms-menu.php 1 ecospectr.com
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-Ecospectr-2-1200%25D1%2585800-80x80@2x.jpg 2 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D1%83%D1%81%D0%BB%D1%83%D0%B3/ 8 -
+/wp-content/themes/formation/js/jquery.flexslider-min.js 1 http://ecospectr.com/
+/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-1200%D1%85800-1200x480@2x.jpg 3 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/wp-sbb.php 1 ecospectr.com
+/wp-content/plugins/ninja-forms/readme.txt 1 ecospectr.com
+/es/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 7 -
+/ru/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 9 -
+/tmp.php 2 ecospectr.com
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/de/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 8 -
+/wp-content/uploads/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8-544%D1%85385@2x.jpg 5 http://ecospectr.com/
+/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/2016/02/25/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D0%B8%D1%80/feed/ 8 -
+/ru/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 9 -
+/ru/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-4@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/es/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 8 -
+/wp-content/plugins/wp-mailinglist/vendors/uploadify/upload.php 1 http://ecospectr.com/wp-content/plugins/wp-mailinglist/vendors/uploadify/upload.php
+/wp-includes/generalwtemplate.php 1 ecospectr.com
+/wp-content/uploads/%25D0%2597%25D0%25B0%25D0%25BC%25D0%25B5%25D0%25BD%25D0%25B0-%25D0%25B0%25D0%25BA%25D0%25BA%25D1%2583%25D0%25BC%25D1%2583%25D0%25BB%25D1%258F%25D1%2582%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B2-%25D0%25BD%25D0%25B0-%25D1%258D%25D0%25BB%25 10 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/plugins/500.php 1 ecospectr.com
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/js/chosen.js 1 -
+/wp-version.php 1 ecospectr.com
+/site/apps/advertising/janitor/sqlibak.php 1 ecospectr.com
+/de/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 8 -
+/es/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 8 -
+/wp-content/uploads/%D0%94%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-1200x800-ecospectr.com_-960x750@2x.jpg 25 http://ecospectr.com/kredity-na-solnechnuyu-stanciyu-pod-001-v-god/
+/ 123 -
+/wp-content/uploads/bmw_%25D0%25B1%25D0%25B0%25D1%2582%25D0%25B0%25D1%2580%25D0%25B5%25D0%25B8_%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BC%25D0%25BE%25D0%25B1%25D0%25B8%25D0%25BB%25D0%25B5%25D0%25B9_%25D0%25B8%25D1%2581 1 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/Co0ds.php 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 8 -
+/wp-admin/user/fronqx.php 1 ecospectr.com
+/administrator/includes/readmy.php 1 ecospectr.com
+/wp-content/uploads/%25D0%2597%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BC%25D0%25BE%25D0%25B1%25D0%25B8%25D0%25BB%25D0%25B5%25D0%25B9-1200x584@2x.jp 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/uploads/%D2%E0%EA-%E4%EE%EB%E6%ED%FB-%E6%E8%F2%FC-%F3%EA%F0%E0%E8%ED%F6%FB.jpeg 1 -
+/fr/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-6@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/uploads/%25D0%25A1%25D0%25B3%25D0%25BE%25D1%2580%25D0%25B5%25D0%25BB%25D0%25B0-Tesla-1200%25D1%2585800-80x80@2x.png 1 http://ecospectr.com/kak-ekonomit-elektroenergiyu/
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-pols.php 1 ecospectr.com
+/7.php.suspected 1 -
+/wp-admin/output.php 2 -
+/es/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 9 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-3@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/themes/sketch/404.php 4 -
+/ini_db_model.php 1 ecospectr.com
+/wp-content/uploads/%D1%EE%F5%F0%E0%ED%E8-%F2%E5%EF%EB%EE-%E2-%E4%EE%EC%E5-www.ecospectr.com_.jpg 1 -
+/wp-content/plugins/wp-mobile-detector/cache/db.php 2 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BE%25D1%2582%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5-1200%25D1%2585800-1200x480@2x.jpg 2 http://ecospectr.com/pochemu-elektro-otoplenie-vygodnee-gazovogo/
+/pols.php 1 ecospectr.com
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-content/uploads/%25D0%2597%25D0%25B0%25D0%25BC%25D0%25B5%25D1%2580%25D1%258B-%25D1%2581%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F-%25D0%25B8%25D0%25B7%25D0%25BE%25D0%25BB%25D 1 http://ecospectr.com/elektrozashhita/audit/
+/es/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 8 -
+/es/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-2@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/2.php 1 -
+/wp-content/uploads/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F-%D0%90%D0%9A%D0%91-1200x480@2x.png 7 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/uploads/FocusElectric-1200%F5400.jpg 1 -
+/wp-content/themes/wp-conns.php 2 ecospectr.com
+/wp-content/uploads/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D0%B3%D0%B0%D0%B7%D0%B0-960x750@2x.jpg 9 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/wp-content/uploads/%D0%92%D0%B5%D1%82%D0%B5%D1%80-1200%D1%85400@2x.jpg 2 http://ecospectr.com/veter/montazh-vetrogeneratorov/
+/p-content/themes/oprum/header.php 1 ecospectr.com
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/css/jquery.lightbox.css 1 http://ecospectr.com/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/css/jquery.lightbox.css
+/Wpwcwjqs.php 1 -
+/wp-content/themes/formation/js/small-menu.js 1 http://ecospectr.com/
+/wp-xmlrpc.php 1 -
+/apple-touch-icon-precomposed.png 1 -
+/wp-content/themes/famous/style.css 1 http://ecospectr.com/wp-content/themes/famous/style.css
+/wp-content/themes/bordeaux-theme/style.css 4 http://ecospectr.com/wp-content/themes/bordeaux-theme/style.css
+/wp-content/uploads/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-www.ecospectr.com_-80x80@2x.jpg 11 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/error-logs.php 1 ecospectr.com
+/wp-content/uploads/bmw_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B8%CC%86_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5@2x.png 7 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BA%25D0%25B0%25D1%2580-vs-%25D0%2593%25D0%25B8%25D0%25B1%25D1%2580%25D0%25B8%25D0%25B4-1200%25D1%2585800-80x80@2x.jpg 1 http://ecospectr.com/kak-ekonomit-elektroenergiyu/
+/wp-content/uploads/ecospectr-com-1299x800-80x80@2x.png 1 http://ecospectr.com/kak-sekonomit-na-otoplenii-gazom/
+/bitrix/admin/ 12 -
+/search.php 1 ecospectr.com
+/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 8 -
+/ru/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 7 -
+/wp-includes/pomo/bo.php 1 http://ecospectr.com/wp-includes/pomo/bo.php
+/fr/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 8 -
+/wp-content/uploads/bmw_%25D0%25B1%25D0%25B0%25D1%2582%25D0%25B0%25D1%2580%25D0%25B5%25D0%25B8_%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BC%25D0%25BE%25D0%25B1%25D0%25B8%25D0%25BB%25D0%25B5%25D0%25B8%25CC%2586_%25D0%25B8 9 http://ecospectr.com/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/
+/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/page/7/ 9 -
+/yjh.php 1 ecospectr.com
+/fr/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 8 -
+/wp-includes/images/hon2our.php 1 ecospectr.com
+/fr/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 8 -
+/es/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 8 -
+/wp-content/uploads/%25D0%2597%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BA%25D0%25B0-ECOSPECTR-1200x480@2x.png 2 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/uploads/%D0%94%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-1200x800-ecospectr.com_-1200x480@2x.jpg 3 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css 1 http://ecospectr.com/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css
+/wp-admin/includes/wp-cods.php 1 ecospectr.com
+/wp-content/uploads/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F-%D0%90%D0%9A%D0%91-960x750@2x.png 18 http://ecospectr.com/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/
+/ru/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 8 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Ecospectr-1@2x.jpg 4 http://ecospectr.com/avto/elektrozapravka-ecospectr/
+/wp-content/plugins/gravityforms/css/preview.css 1 -
+/dumper.php 1 -
+/es/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 9 -
+/wp-content/uploader.php 2 http://ecospectr.com/wp-content/uploader.php
+/wp-content/plugins/Wp-LayerSlider/layerslider.php 1 -
+/de/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 8 -
+/articles.php 1 ecospectr.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1444
+151.80.62.34 10002 10002 38306137 20171122140540
+91.200.12.28 9312 9312 35663932 20171113053525
+62.210.152.119 4046 4046 1775114 20171113220300
+198.204.225.202 2932 2932 11173417 20171117104601
+173.208.244.26 2494 2494 11174280 20171129072947
+142.54.187.50 2225 2225 8493194 20171108212207
+142.54.188.42 1762 1762 6745486 20171123061041
+192.151.148.52 1450 1450 5496950 20171101002543
+173.208.236.122 1438 1438 5502897 20171103055227
+173.208.148.219 732 732 4428681 20171108153440
+185.25.19.134 2 2 6650 20171127134721
+46.133.226.143 1 4 251702 20171125074842
+217.118.78.88 2 2 6611 20171110124623
+5.139.43.68 1 1 3204 20171106204651
+94.244.130.65 2 2 134815 20171121191227
+82.144.81.50 0 1 656045 
+212.26.236.255 2 2 6611 20171117164844
+5.187.69.143 2 2 6611 20171109192418
+213.87.139.185 2 2 6611 20171104214540
+194.187.149.95 2 2 6408 20171110104658
+107.207.196.206 1 1 3830 20171126120027
+94.25.170.215 2 2 6650 20171102090131
+95.220.108.124 0 1 72059 
+88.147.152.244 2 2 6650 20171106223942
+31.41.72.221 0 1 209579 
+174.138.68.195 3 3 11490 20171123233415
+213.135.86.230 1 1 3204 20171107121500
+130.180.220.116 0 1 723473 
+188.165.4.128 4 4 245078 20171124072424
+178.65.102.179 2 2 6611 20171104235053
+46.175.160.25 0 1 58571 
+94.141.169.32 4 4 12816 20171110113130
+81.208.4.172 1 1 3830 20171124100557
+37.73.222.240 1 1 69385 20171115100653
+82.208.127.205 2 2 6650 20171113075257
+188.191.239.93 3 32 961731 20171115005803
+79.137.33.103 1 1 3830 20171123030510
+187.188.182.116 1 1 3830 20171126094106
+85.93.49.144 2 2 6611 20171108165820
+178.169.87.23 6 6 19872 20171122104252
+188.255.16.110 3 49 1387652 20171119004310
+109.251.99.27 1 1 51551 20171126195319
+185.59.58.38 1 1 3204 20171107162727
+37.204.152.166 3 61 2578377 20171105151540
+93.178.200.220 1 3 180057 20171121203636
+37.57.94.152 0 2 110446 
+46.147.229.206 4 4 13300 20171101133602
+109.252.91.226 1 1 3204 20171106211042
+178.155.4.201 1 1 3204 20171108095239
+109.235.25.46 0 1 34264 
+79.106.45.66 0 1 54986 
+95.104.127.54 0 2 182770 
+202.46.48.132 1 1 51726 20171102182707
+31.163.147.200 2 2 6650 20171118055823
+176.31.255.179 1 1 3830 20171122045401
+217.147.162.126 4 61 1629289 20171107014706
+173.252.84.112 2 23 1022232 20171126021222
+212.90.158.38 1 1 3830 20171122082610
+46.33.33.23 2 2 6650 20171125124225
+37.235.200.65 2 2 6650 20171108100150
+176.121.10.57 2 2 103679 20171114052012
+31.8.80.0 2 2 6611 20171125090343
+2.94.238.227 2 2 6611 20171102211159
+94.66.155.162 2 2 6611 20171111122100
+46.42.162.121 3 26 671775 20171122011432
+85.192.189.174 1 1 3204 20171109151930
+178.34.160.210 2 2 6650 20171130091522
+87.230.23.190 1 1 3830 20171123063414
+134.249.149.196 1 1 50664 20171126214218
+46.63.169.112 2 2 6611 20171110085231
+185.11.29.8 1 1 65428 20171121192308
+95.158.20.89 1 1 50664 20171125071634
+216.244.77.207 1 1 3830 20171123121343
+195.24.135.248 0 1 34491 
+46.63.62.149 1 1 69385 20171114134331
+181.214.87.244 36 36 137412 20171130231237
+109.126.254.31 2 2 6611 20171128112649
+78.156.247.117 2 2 6611 20171113080609
+109.71.235.117 1 1 3830 20171123043546
+31.131.112.209 0 1 74897 
+213.169.86.226 1 1 50664 20171125162531
+188.162.196.224 2 2 6611 20171125115538
+107.22.211.63 1 1 3830 20171122224242
+95.73.244.135 2 2 6611 20171119152636
+37.235.168.207 4 4 13261 20171122180505
+62.210.99.144 1 1 3830 20171123083856
+185.127.166.166 0 1 54986 
+37.145.123.9 5 52 1504409 20171106050950
+78.47.178.59 2 2 7660 20171123114649
+46.188.40.88 3 49 1381390 20171126050739
+95.52.36.227 2 2 6650 20171128035321
+95.73.26.72 1 1 3204 20171107205444
+37.29.101.26 1 1 3204 20171102115502
+158.46.202.138 1 1 51726 20171106073021
+91.194.72.246 2 2 6650 20171120040018
+178.65.153.227 2 2 6611 20171101214107
+46.146.47.94 2 2 6650 20171118141924
+95.191.227.134 2 2 6611 20171115083048
+81.24.208.204 4 63 2629853 20171104215853
+83.143.240.19 3 3 100672 20171121070941
+194.186.29.118 4 25 561498 20171116034534
+54.65.209.125 3 3 11490 20171124062023
+106.187.98.143 1 1 205 20171125053908
+173.254.28.70 23 23 10097 20171130202044
+185.86.4.243 35 35 128910 20171126165303
+85.95.189.130 2 2 6611 20171128150403
+192.41.73.88 1 1 3830 20171121014316
+91.107.100.87 2 2 6650 20171110090106
+91.144.149.126 10 10 33133 20171130014815
+213.110.97.146 4 69 7232553 20171115154416
+109.252.59.251 4 4 13222 20171119201317
+193.34.172.77 1 1 69387 20171114113554
+54.207.50.178 1 1 3830 20171122171543
+94.228.16.46 0 1 74897 
+171.5.146.79 2 2 6611 20171102061825
+188.159.117.142 2 2 6650 20171121080321
+59.51.151.238 2 2 6632 20171107113454
+91.211.12.70 4 70 7242496 20171115195655
+199.195.253.124 1 1 3830 20171126191613
+94.79.32.243 2 2 6611 20171122123456
+37.55.37.65 13 79 3137249 20171102003612
+80.152.254.188 2 2 6632 20171123112606
+52.53.129.36 1 1 52792 20171129042442
+77.93.36.154 0 1 74897 
+37.79.179.6 4 4 13261 20171130071442
+178.151.51.153 1 1 69387 20171114092444
+50.112.194.65 1 1 51726 20171107120459
+95.221.157.144 2 11 409302 20171121032832
+77.37.169.25 0 1 656045 
+217.174.156.249 3 3 11490 20171124174316
+95.133.145.99 0 1 68201 
+140.116.72.245 1 1 3830 20171121120116
+46.0.164.21 4 4 13222 20171122220842
+62.148.132.100 6 6 19872 20171114212223
+195.114.7.212 4 4 13222 20171129151002
+31.162.14.15 2 2 6650 20171118234838
+5.166.124.63 2 2 6611 20171107194704
+31.13.113.193 2 16 1473000 20171127224730
+213.87.96.209 2 2 6611 20171103100930
+195.98.70.241 4 4 13222 20171103090137
+54.251.251.126 1 1 3830 20171121054452
+31.28.27.66 0 1 54986 
+176.120.61.183 1 1 51551 20171127091608
+109.173.110.70 0 1 412899 
+188.163.27.132 1 1 50664 20171125003816
+217.160.131.93 2 2 7660 20171122100406
+128.75.158.186 2 2 6611 20171111221241
+86.62.76.100 2 2 6611 20171127112422
+46.72.29.26 0 1 719910 
+77.123.67.188 3 8 490365 20171130110840
+95.47.162.10 0 1 51592 
+194.1.193.78 4 63 1785739 20171119130435
+95.189.31.48 1 1 3204 20171102070649
+194.201.253.2 1 1 3830 20171121181503
+188.170.194.38 1 1 3204 20171108151955
+95.78.113.238 4 4 13300 20171121120307
+46.219.234.228 1 1 69387 20171114104732
+62.210.105.116 1 1 65428 20171121185915
+91.107.121.20 1 1 3830 20171123191539
+54.37.69.170 1 1 3830 20171123221712
+89.19.125.77 4 63 2653782 20171118163920
+96.45.70.75 4 4 103908 20171110082151
+188.162.166.226 2 2 6650 20171102161703
+77.68.162.19 2 2 7660 20171122051622
+176.77.1.193 0 1 656045 
+213.33.203.178 1 1 3204 20171101191653
+185.58.196.130 3 3 11490 20171123075542
+37.187.85.228 2 2 7660 20171123030606
+188.169.123.74 1 1 3204 20171107032815
+212.20.37.100 1 1 3204 20171110102837
+94.29.126.33 2 2 6611 20171122094652
+46.98.125.219 1 1 69385 20171114211746
+91.213.185.3 5 5 311261 20171130084902
+176.15.57.196 0 1 62114 
+5.206.236.19 4 4 13222 20171128232557
+62.210.177.15 2 2 6632 20171110161726
+62.109.191.26 2 2 6611 20171106200646
+178.140.90.243 3 49 1388562 20171125071858
+90.151.89.234 2 2 6611 20171126083409
+85.26.164.129 2 2 6650 20171111085206
+183.214.89.122 2 2 6632 20171128035947
+80.76.191.89 3 3 9612 20171110091101
+213.27.244.66 1 1 3830 20171122033012
+91.200.124.62 1 1 65505 20171121220518
+194.29.63.225 8 109 4709213 20171123164314
+85.115.224.202 2 2 6611 20171118232228
+46.37.214.172 4 64 1823260 20171129054344
+176.59.80.67 0 1 958915 
+91.192.171.102 6 6 19833 20171109153947
+2.139.161.149 0 2 8290 
+109.172.102.85 4 4 13261 20171124132805
+91.76.230.51 4 4 13222 20171114205405
+194.116.202.51 1 1 3830 20171121234357
+31.23.74.51 2 2 6650 20171118092333
+85.113.152.227 2 2 6611 20171122024058
+95.78.118.44 1 1 3204 20171101041536
+94.180.250.20 0 1 54060 
+46.242.60.166 0 1 44800 
+78.29.119.14 2 2 6650 20171123061800
+37.229.61.140 10 81 4710137 20171101055443
+36.66.37.185 1 1 3830 20171130223007
+83.169.216.236 2 2 6611 20171107140628
+212.21.27.93 2 2 6650 20171106053750
+220.247.166.148 1 1 3830 20171126084813
+37.73.193.106 1 1 65505 20171122142006
+217.118.91.32 2 2 6611 20171122061352
+89.239.168.194 0 1 656045 
+109.126.195.81 2 2 6611 20171120124314
+37.187.77.211 1 1 0 20171122070448
+93.75.238.99 1 1 51551 20171127095859
+195.234.212.42 1 1 69387 20171114120424
+185.28.109.130 6 6 347707 20171122012627
+93.62.153.203 15 15 219292 20171123140409
+178.34.161.21 2 2 6611 20171109230950
+95.72.222.153 2 2 6611 20171102111802
+46.242.14.21 2 2 6650 20171121163122
+62.122.208.147 2 2 6650 20171127215446
+188.162.80.235 0 1 422347 
+195.94.173.10 1 1 3830 20171123153351
+37.73.214.75 1 1 51632 20171125172300
+77.66.140.109 6 6 19911 20171125113313
+89.101.244.26 1 1 3830 20171126141901
+176.108.6.215 4 64 2655684 20171112194233
+2.94.60.30 2 2 6611 20171105070227
+54.252.211.50 1 1 3830 20171122081722
+5.137.71.244 2 2 6611 20171117003820
+54.190.92.251 1 1 51953 20171109235538
+185.103.42.253 1 1 51551 20171126195047
+130.180.220.244 0 1 723473 
+80.246.138.81 3 52 2595590 20171125101403
+176.120.99.200 2 2 6611 20171130134118
+194.1.193.50 0 1 74897 
+204.79.180.9 6 87 2794157 20171128171514
+178.252.205.27 4 4 13222 20171113230402
+110.50.84.162 1 1 3830 20171126171854
+213.167.219.141 6 6 19872 20171111125029
+37.212.17.156 2 2 6650 20171107153102
+89.19.206.5 2 2 6611 20171110213842
+14.63.166.226 2 2 7660 20171122093825
+5.3.158.207 3 49 1401922 20171108042410
+5.32.143.53 0 1 54986 
+66.102.9.148 1 20 515844 20171111102848
+178.95.200.240 3 3 167643 20171130072550
+178.210.51.35 1 1 3204 20171101124508
+91.193.130.24 0 2 188669 
+37.147.148.26 2 2 6611 20171109035518
+212.115.252.76 1 1 21688 20171104083438
+95.167.3.39 1 1 3204 20171110082329
+94.153.137.122 7 83 3626891 20171129103419
+91.196.82.22 0 1 63064 
+93.77.79.129 6 6 123497 20171130052848
+5.22.153.2 1 1 3204 20171107135106
+164.177.36.57 1 1 3830 20171122050939
+71.15.119.133 2 2 7660 20171124004538
+142.154.212.82 0 1 4145 
+177.89.214.214 1 1 3830 20171126181601
+89.178.5.188 8 88 2453848 20171123153725
+91.233.135.33 8 8 26561 20171125201317
+5.165.61.223 2 2 6611 20171104174856
+195.191.104.125 1 1 69385 20171115113133
+185.2.151.171 3 3 1317 20171130214236
+37.55.155.78 0 1 63064 
+178.34.161.94 2 2 6611 20171124131219
+103.47.125.254 1 1 3830 20171127002156
+46.149.94.73 2 2 102215 20171126221642
+166.62.119.102 12 12 214329 20171102121201
+87.229.112.24 10 10 78858 20171105224500
+46.219.236.195 10 73 2490124 20171122183811
+112.66.107.93 1 1 51953 20171112044436
+2.94.101.126 2 2 6650 20171111162802
+92.255.205.52 2 2 6611 20171109110126
+37.139.20.28 1 1 3830 20171121115508
+46.211.97.180 1 1 65505 20171122081813
+80.246.95.229 2 2 6611 20171128075624
+46.133.131.227 1 1 69385 20171114124449
+178.212.198.158 0 1 74897 
+37.73.241.19 5 65 2723843 20171114072645
+91.242.43.220 1 23 490249 20171124195903
+178.167.104.89 1 1 3204 20171109163610
+111.93.53.167 1 1 3830 20171123014009
+95.110.124.224 2 2 6611 20171127180847
+188.163.110.149 0 1 74897 
+31.13.114.52 1 8 333976 20171126003817
+109.188.64.73 2 2 6611 20171128142604
+46.211.5.64 1 1 49430 20171102135003
+31.173.120.20 2 2 6650 20171115182411
+220.164.2.123 2 2 6632 20171114082124
+37.73.158.163 4 68 3447466 20171115185946
+91.207.245.221 2 2 6650 20171116080439
+94.101.228.160 12 12 214329 20171104123934
+88.147.231.157 4 4 13222 20171121225748
+110.44.120.198 0 1 54986 
+217.23.8.161 8 8 3512 20171130211713
+195.22.126.221 37 37 16317 20171121072542
+88.200.136.254 4 4 13222 20171117123938
+188.163.76.83 172 1113 52965058 20171129202846
+110.77.133.91 1 1 3830 20171122163850
+94.23.35.86 1 1 3830 20171122040735
+159.180.230.193 1 1 3830 20171123180101
+91.234.147.66 2 2 6611 20171123163049
+46.148.181.115 1 1 51551 20171128001931
+109.252.62.19 2 2 6611 20171119190905
+192.40.95.28 2 2 63877 20171130042133
+159.224.247.7 2 2 101328 20171125090319
+46.255.34.242 1 1 69385 20171114212134
+62.149.143.98 1 1 439 20171110020651
+31.181.128.44 2 2 6650 20171119175513
+159.203.81.93 1 1 51953 20171110162132
+93.77.9.140 4 58 2070748 20171102235012
+46.149.58.62 4 69 2709568 20171106194301
+95.15.73.33 38 38 144512 20171102183746
+88.132.15.90 2 2 7660 20171124014300
+46.219.217.48 1 1 69373 20171117171627
+178.173.22.39 1 1 3204 20171102052249
+109.95.53.85 1 1 54757 20171120143701
+46.211.114.160 1 1 51551 20171126212439
+31.8.143.116 2 2 6611 20171124094441
+188.166.71.248 0 1 74897 
+193.105.201.41 1 1 51551 20171126215357
+46.233.255.153 2 2 136114 20171120075536
+163.172.212.115 1 1 69385 20171114170938
+178.120.5.66 2 2 6650 20171114020903
+178.18.96.46 2 2 6611 20171120180300
+109.238.80.56 1 1 3204 20171108122203
+90.154.70.81 2 2 112872 20171130113633
+46.133.131.228 1 1 65505 20171121203530
+31.134.120.98 1 1 65505 20171121212809
+146.185.223.26 1 1 51726 20171105134154
+208.123.213.173 12 12 214329 20171104123957
+77.43.205.131 10 10 33055 20171124075322
+95.24.11.59 3 25 908934 20171127072406
+82.127.105.104 1 1 3204 20171106135049
+109.63.205.37 0 8 288195 
+104.152.45.130 1 1 51953 20171110090831
+2.62.250.16 2 2 6611 20171101110655
+180.97.195.15 1 1 3830 20171123020143
+91.242.42.234 4 45 1340037 20171128061909
+95.132.135.114 16 89 3721388 20171103144814
+178.216.164.200 4 4 215786 20171120141503
+88.135.196.55 2 2 101328 20171125163344
+176.8.88.246 1 1 65428 20171121185138
+46.219.220.87 1 1 50664 20171125224842
+184.154.152.74 12 12 214329 20171101080701
+176.235.99.166 1 1 3830 20171126161921
+150.129.140.27 0 1 958915 
+62.210.26.45 1 1 173 20171118183033
+106.120.162.97 4 74 3775188 20171104211603
+91.205.46.26 2 2 6650 20171124165319
+139.59.25.153 1 1 441 20171101072728
+87.236.100.63 12 12 214329 20171105035857
+93.85.139.216 0 1 161225 
+195.22.125.74 2 2 67632 20171125233037
+193.104.101.105 2 2 7660 20171122140822
+92.223.222.180 2 2 7660 20171123222254
+176.14.200.208 3 49 1383980 20171111072504
+91.199.206.3 4 63 2617988 20171106150603
+185.203.243.211 1 1 46842 20171109023538
+5.255.177.14 1 1 51953 20171114104940
+196.52.84.18 1 1 52792 20171128194915
+93.74.146.239 1 1 65505 20171122212516
+89.221.61.202 8 8 26522 20171124104108
+42.145.226.174 2 2 6611 20171128051848
+173.252.84.113 2 28 1969089 20171122011027
+176.97.36.49 8 8 26522 20171123112147
+77.122.239.168 0 1 74897 
+72.34.40.81 1 1 3830 20171122194751
+136.243.95.186 3 3 192183 20171129014100
+46.211.69.163 1 1 69385 20171116112708
+185.204.59.57 63 63 95484 20171122170629
+217.118.78.120 1 1 3204 20171107133740
+194.44.242.110 12 12 207802 20171113003738
+46.133.253.87 4 70 3476886 20171114182041
+37.211.247.195 2 2 6611 20171116112453
+37.79.182.33 2 2 6611 20171128104137
+46.133.54.76 1 1 69385 20171115084408
+46.211.146.77 0 1 74897 
+46.219.219.87 1 5 643906 20171115211448
+46.98.125.25 1 1 65505 20171122222931
+178.254.55.228 1 1 3830 20171122030533
+109.229.7.92 4 4 13300 20171121225947
+52.17.117.52 1 1 3830 20171122091806
+94.26.165.201 2 2 6611 20171112200146
+91.244.20.234 1 1 65428 20171121184228
+68.190.17.93 1 1 3830 20171126222002
+91.200.124.50 1 1 65505 20171121223504
+89.179.197.100 1 1 3204 20171108185415
+83.149.44.189 1 1 3204 20171110013031
+123.242.224.146 1 1 3830 20171123042852
+176.197.163.250 12 12 39705 20171130145709
+109.168.188.88 2 2 6611 20171110071736
+89.146.88.251 0 2 286109 
+182.48.88.66 1 1 3204 20171108115535
+178.159.37.63 1 1 51939 20171120022211
+94.79.7.7 1 1 3204 20171110170355
+74.208.41.254 6 6 757122 20171111135152
+130.180.218.27 0 2 1446946 
+93.80.231.219 3 49 1377090 20171128071741
+176.74.94.113 2 2 6611 20171127195110
+185.59.58.48 6 6 19872 20171114171313
+178.68.115.137 2 2 6611 20171117195800
+79.110.192.43 2 2 6611 20171101230909
+176.110.49.84 1 1 69385 20171114222425
+46.211.144.219 3 67 3378081 20171116112728
+93.159.230.89 3 54 1607490 20171105220547
+46.42.133.106 2 54 2326930 20171112115845
+178.62.31.148 1 1 3830 20171123030805
+185.143.88.186 0 1 54986 
+78.111.242.55 0 1 54060 
+46.101.5.53 2 2 102215 20171127222828
+188.123.252.215 2 2 6611 20171125203208
+217.66.154.253 2 2 6611 20171111151524
+188.162.36.138 2 2 6650 20171130135822
+204.79.180.14 10 126 3128466 20171130215633
+93.183.78.223 2 2 6611 20171126203724
+31.13.113.198 3 16 378819 20171127224731
+134.249.129.165 4 64 1848153 20171130111825
+193.254.38.38 2 2 6632 20171110180227
+74.208.42.58 7 7 706909 20171102214955
+204.79.180.6 5 99 2670106 20171127012952
+62.210.7.245 2 2 346 20171117023220
+204.79.180.4 7 95 2290811 20171127235731
+95.78.64.155 2 2 6650 20171113104634
+178.121.59.75 0 2 119450 
+106.186.24.133 1 1 3830 20171121165934
+195.5.49.49 1 1 3204 20171106191335
+93.77.237.114 1 1 50664 20171125091356
+91.149.206.26 4 74 3751456 20171121081206
+196.14.25.4 1 1 3830 20171124033038
+31.185.4.47 1 1 3204 20171110195101
+212.92.228.125 0 1 35347 
+178.95.14.240 1 1 51551 20171126194807
+204.79.180.10 2 114 3283351 20171104225205
+91.193.131.83 4 73 3733895 20171114112906
+188.18.109.248 1 1 3204 20171108184338
+37.78.9.241 2 2 6611 20171129164044
+176.120.55.100 2 2 6611 20171109005514
+217.118.78.93 2 2 6650 20171129091128
+80.65.249.15 1 1 3830 20171122041225
+94.188.75.2 1 1 3204 20171106173238
+85.95.178.1 1 1 61075 20171129064714
+37.187.189.33 12 12 214329 20171102041017
+95.78.56.36 2 2 6611 20171117170646
+91.242.195.183 2 2 6650 20171106105127
+37.78.208.190 2 2 6650 20171105180921
+5.227.7.70 1 1 3204 20171101133646
+96.127.152.226 1 1 3830 20171124020759
+52.64.114.111 1 1 3830 20171121045132
+5.187.69.22 2 2 6650 20171104234725
+94.154.221.137 2 2 116169 20171125211846
+178.151.142.134 12 12 39822 20171128150144
+66.228.54.174 3 3 1317 20171128010459
+178.46.211.113 1 1 3204 20171101075537
+195.66.197.212 0 1 74897 
+37.187.65.48 2 2 7660 20171123212729
+5.129.86.220 1 1 3204 20171109055719
+188.226.129.55 1 1 52792 20171123040145
+77.239.186.91 55 222 6735922 20171107132508
+64.145.79.55 1 1 52792 20171130082340
+31.28.113.97 6 6 19872 20171127085558
+185.34.224.10 0 1 54060 
+83.174.223.180 2 2 6650 20171117084722
+77.235.99.77 1 1 51726 20171105012415
+185.80.150.37 0 1 54986 
+202.46.55.172 1 1 52792 20171125221612
+87.228.16.209 3 42 1080148 20171121032832
+37.110.211.160 0 4 518104 
+85.234.6.34 4 4 13300 20171129170111
+77.222.117.202 2 2 6611 20171122044631
+178.76.243.219 1 1 3204 20171108232159
+176.59.207.42 2 2 6650 20171101191142
+37.113.130.203 2 2 6611 20171117065103
+66.220.152.5 2 8 191728 20171127224253
+139.153.14.206 1 1 3830 20171123073320
+5.18.96.157 1 1 46840 20171114235637
+195.191.104.90 7 70 2862131 20171119195121
+77.37.131.81 2 27 595389 20171127072402
+83.220.239.2 0 1 54986 
+217.8.38.254 0 1 656045 
+109.252.206.0 2 2 6408 20171108114929
+31.131.99.49 0 1 74897 
+178.45.11.35 0 1 60022 
+31.13.114.50 0 3 84486 
+89.111.187.236 0 1 54986 
+188.166.91.5 4 62 2024540 20171120130612
+109.162.4.213 1 1 65505 20171122221558
+94.136.172.205 1 1 3830 20171122111921
+66.220.152.7 0 15 454114 
+188.17.248.28 0 1 656045 
+201.18.18.173 126 126 190129 20171126183601
+95.27.255.47 0 2 18727 
+185.13.112.60 1 1 3204 20171107212643
+46.172.76.17 4 75 4940995 20171115185351
+91.134.156.138 2 2 7660 20171124095152
+201.144.228.195 2 2 7660 20171123071452
+185.125.112.113 1 1 3204 20171110173955
+118.121.41.8 2 2 6632 20171117070959
+74.208.247.104 2 2 7660 20171123021424
+46.201.211.85 4 57 1531531 20171118155644
+46.211.156.224 0 1 74897 
+46.98.125.181 32 120 5014806 20171102193502
+178.163.17.194 0 1 39110 
+178.69.31.73 2 2 6650 20171108124152
+5.172.14.161 0 1 656045 
+88.147.153.158 2 2 6611 20171116033221
+91.90.13.70 4 4 13222 20171126195418
+46.149.90.57 1 1 69373 20171116175618
+46.159.120.50 2 2 6650 20171108170242
+94.78.235.238 2 2 6650 20171104043937
+5.19.7.252 2 2 6650 20171122212255
+5.196.72.102 1 1 3830 20171124121711
+163.172.122.20 3 3 103404 20171103024536
+5.141.8.7 1 1 3204 20171102062236
+212.176.192.145 0 25 865869 
+109.95.34.192 3 3 167441 20171101121122
+85.172.54.45 2 2 6632 20171114092317
+128.73.195.74 2 2 6611 20171122155004
+31.13.113.196 0 40 1114000 
+166.62.90.110 2 2 346 20171101170846
+86.62.123.82 10 10 33094 20171120075019
+94.50.195.52 2 2 6650 20171108031931
+46.45.15.160 1 1 3204 20171108205553
+176.120.100.233 1 1 50664 20171125071838
+91.206.63.212 1 1 3204 20171102083251
+91.193.128.149 8 115 4123893 20171128125223
+178.205.71.239 2 2 6611 20171112220745
+91.121.168.94 3 3 11490 20171123091032
+173.252.84.117 2 26 676769 20171126021220
+93.170.21.139 1 1 3204 20171109223029
+46.219.238.164 1 1 69387 20171114072826
+97.79.236.65 1 1 3830 20171124080802
+195.248.173.113 1 1 33413 20171103095259
+46.105.50.80 1 1 1 20171127203434
+163.172.4.153 3 3 157523 20171129033308
+178.45.113.60 2 2 6650 20171123172327
+89.219.28.202 0 1 422347 
+77.121.166.23 2 2 116169 20171125185326
+94.25.170.106 1 1 3204 20171109070325
+54.200.101.239 1 1 51726 20171104181902
+80.88.87.8 1 1 52792 20171130003608
+200.203.104.250 12 12 214329 20171101222422
+193.34.141.59 0 1 74897 
+87.117.26.218 2 2 6650 20171106191358
+185.66.140.130 2 2 7660 20171122215116
+188.166.72.226 0 1 175291 
+80.251.112.198 12 12 39744 20171128011505
+46.188.29.94 3 49 1381390 20171130165630
+204.79.180.17 3 104 2736116 20171114212423
+93.178.254.150 1 1 69385 20171115061140
+128.73.29.9 2 2 6611 20171120141959
+91.218.96.23 0 1 46142 
+178.94.176.12 1 1 65505 20171121222721
+178.165.83.196 2 2 106443 20171101202752
+178.158.83.222 0 1 958915 
+178.140.196.180 1 8 432568 20171124195901
+94.179.164.182 1 1 65505 20171122191837
+188.17.80.34 2 2 6611 20171116060051
+109.195.81.143 1 1 3204 20171109153746
+194.44.129.121 1 1 50664 20171125161028
+92.222.74.221 1 1 3830 20171128112301
+176.37.54.63 4 62 1784441 20171130082054
+31.42.172.3 2 2 134890 20171121210255
+37.229.27.134 4 70 4086194 20171104000855
+194.184.191.158 2 2 7660 20171123011215
+5.58.74.208 1 1 49896 20171113084953
+104.237.242.142 1 1 51726 20171106130535
+195.62.15.34 0 1 74897 
+178.120.27.229 0 1 60022 
+92.255.243.14 1 1 3204 20171110140005
+109.184.122.62 4 4 13300 20171128065005
+52.69.21.68 1 1 3830 20171126211907
+79.122.230.190 4 4 13222 20171108131140
+217.115.178.88 2 2 6650 20171118120229
+46.211.7.54 1 1 51551 20171127122031
+89.178.237.126 1 40 1192373 20171122003527
+176.49.139.121 4 4 13222 20171122122849
+93.159.230.28 3 55 1628798 20171119220720
+77.121.124.115 0 1 74897 
+94.29.126.27 0 1 54060 
+190.210.180.135 2 2 7660 20171124104500
+109.252.26.115 2 2 6650 20171109154330
+202.72.245.58 2 2 7660 20171122221140
+85.26.165.7 2 2 6650 20171112130716
+198.12.152.22 12 12 214329 20171102221313
+46.63.1.105 0 1 54060 
+188.162.64.11 2 2 6408 20171109151042
+82.204.178.44 0 1 958915 
+176.12.97.86 1 1 3204 20171106172505
+94.50.194.64 2 2 6611 20171107012840
+185.85.238.244 2 2 6632 20171104072315
+185.13.44.233 1 1 3204 20171101221345
+37.73.181.7 2 2 101328 20171126163140
+176.226.139.246 2 2 6650 20171106171055
+159.224.188.186 4 70 3476886 20171115072940
+192.99.1.183 1 1 51726 20171105150654
+213.87.146.72 2 2 6611 20171129193207
+77.34.123.35 0 1 87140 
+178.171.31.134 1 1 52792 20171123223741
+91.221.252.18 1 1 3830 20171126112825
+5.3.204.92 1 7 141248 20171128061909
+31.134.112.56 4 63 1797574 20171125044027
+94.232.16.168 6 6 19872 20171126074858
+91.203.134.25 1 1 3830 20171123025716
+46.133.134.30 4 63 1942937 20171128183751
+195.10.210.49 4 56 1536150 20171112234315
+46.151.24.167 1 1 3204 20171110195204
+217.149.7.175 1 1 3830 20171121215740
+188.191.101.5 7 79 3862727 20171102204349
+37.73.138.109 1 41 2112255 20171122150416
+185.34.183.141 1 1 42620 20171122214955
+185.147.129.74 0 1 54986 
+27.111.47.196 2 2 6632 20171101055917
+109.87.152.245 4 57 1531531 20171121160322
+78.111.186.55 4 57 2053159 20171128105100
+61.19.76.141 1 1 3830 20171121202653
+46.133.245.3 1 1 65428 20171121192801
+128.69.68.223 2 2 6611 20171110172839
+185.128.107.204 0 1 54986 
+31.173.101.89 2 2 6611 20171103182339
+91.208.198.12 15 185 8167939 20171117153422
+38.80.23.195 1 1 51726 20171106130601
+178.155.6.115 2 2 6611 20171120135113
+195.80.182.231 1 1 3830 20171126070049
+204.79.180.21 8 80 2080162 20171123202318
+37.73.148.205 1 1 69385 20171114172933
+37.73.215.119 2 4 230721 20171125040736
+69.65.40.75 8 8 3512 20171124161739
+96.94.32.50 1 1 3830 20171126103337
+188.242.100.34 1 1 3204 20171101200534
+46.133.105.112 3 32 940973 20171101182041
+204.79.180.19 3 104 2986567 20171104034042
+104.168.170.146 1 1 3830 20171122022527
+77.34.10.29 6 6 19911 20171127033536
+109.172.98.83 6 6 19872 20171121132224
+185.219.76.217 4 57 2070633 20171103143710
+46.118.73.204 1 2 91798 20171116100539
+78.109.32.154 1 1 0 20171122070350
+94.231.103.78 1 1 3830 20171122010527
+89.232.71.102 1 1 3204 20171109213653
+176.116.143.99 4 63 2015585 20171107005049
+78.26.168.52 4 59 1791647 20171109115617
+46.105.14.173 1 1 3830 20171122214750
+46.219.216.231 1 1 65505 20171121212235
+31.13.114.49 0 3 14172 
+31.134.120.101 0 1 63476 
+95.78.36.18 2 2 6611 20171123193542
+37.204.58.171 2 10 198035 20171122003527
+75.98.168.160 12 12 214329 20171101170927
+128.199.100.49 1 1 3830 20171123162918
+85.95.189.166 1 1 3204 20171110145915
+207.154.221.158 1 1 65505 20171121233448
+213.147.201.93 0 1 183716 
+165.227.130.97 1 1 49430 20171101070918
+128.69.152.114 3 48 1396694 20171104165355
+5.16.29.17 3 49 1376998 20171120191210
+46.167.74.164 2 2 6611 20171124153255
+212.232.50.224 1 1 3204 20171108123241
+31.23.13.43 2 2 6650 20171124085445
+31.43.98.194 1 1 69385 20171115205247
+222.124.128.202 2 2 6632 20171107195901
+91.122.220.15 0 1 958915 
+94.27.58.54 0 1 74897 
+70.39.246.37 8 8 608470 20171121210915
+91.234.62.57 1 1 3204 20171107161707
+159.203.196.79 1 1 121071 20171103111025
+196.219.96.238 2 2 6632 20171120094134
+178.93.237.26 2 2 138770 20171115224247
+77.50.89.150 2 2 6611 20171116185309
+31.13.114.51 0 4 64715 
+80.251.112.201 2 2 6650 20171106145302
+188.187.144.42 2 2 6611 20171112073604
+137.74.197.144 1 1 3830 20171124184240
+94.50.198.195 2 2 6611 20171109093407
+91.201.247.71 1 1 39140 20171109172656
+167.114.65.240 1 1 52792 20171126074821
+176.116.90.4 0 1 4145 
+204.13.201.139 1 1 33413 20171107120142
+52.50.3.8 1 1 3830 20171122203207
+94.180.149.71 3 62 1723869 20171127200450
+37.73.212.130 1 1 51551 20171130084152
+78.156.252.130 2 2 6611 20171110182909
+46.201.132.52 1 1 69384 20171101080529
+193.0.206.190 1 1 65505 20171122084001
+54.158.211.86 2 2 86608 20171130165638
+31.13.114.53 1 6 42564 20171126003817
+62.149.7.166 0 1 74897 
+51.255.80.223 2 2 7660 20171122195220
+109.184.119.107 0 1 175291 
+213.87.96.220 2 2 6611 20171128032521
+59.57.37.8 1 1 51951 20171115133941
+91.192.131.120 1 1 49430 20171101110223
+95.104.2.134 1 1 3204 20171101105340
+188.0.188.183 2 2 6611 20171108020849
+46.133.12.84 1 1 69385 20171114195448
+46.211.103.20 1 1 65505 20171122080903
+213.24.127.167 6 6 19911 20171105053236
+79.165.123.222 2 2 6650 20171103140256
+46.219.247.212 1 1 69387 20171114092501
+202.46.58.90 1 1 52792 20171128015838
+78.26.151.238 0 1 74897 
+50.62.176.104 2 2 53233 20171129130044
+185.150.154.191 3 41 1116233 20171129131315
+213.159.255.138 1 1 51551 20171126201951
+37.122.74.193 2 2 6611 20171103135445
+178.187.41.128 0 1 64792 
+46.98.124.43 1 1 65428 20171121191345
+46.172.86.135 0 1 63064 
+178.72.91.190 2 2 6611 20171118185547
+46.211.100.37 4 65 2742889 20171104174107
+91.244.8.167 1 1 69385 20171114201645
+173.252.84.116 1 49 1466769 20171126021220
+213.87.96.211 1 1 3204 20171107173948
+37.139.177.246 4 63 2612481 20171114211317
+94.124.164.40 4 63 2691664 20171122113344
+217.118.79.22 0 1 71081 
+212.1.109.97 1 1 3204 20171110203329
+58.221.72.169 40 42 682867 20171110234659
+188.163.68.20 0 1 35347 
+81.163.68.228 1 1 3204 20171101084338
+81.95.120.19 1 1 3830 20171123053902
+52.52.92.18 1 1 3830 20171123202628
+212.31.241.29 13 13 211632 20171122042723
+77.123.175.202 6 6 350454 20171104121146
+176.120.61.10 1 1 69384 20171103075138
+194.33.184.110 2 2 7660 20171122041837
+46.101.242.132 1 1 3830 20171121152816
+89.189.181.43 4 4 13261 20171130172355
+85.140.57.0 2 2 6650 20171122080134
+195.154.235.177 1 1 3830 20171121132954
+204.79.180.16 10 123 3338142 20171124180246
+109.126.227.232 2 2 6611 20171120190816
+5.196.237.164 1 1 3830 20171122052215
+46.188.73.135 0 1 72059 
+188.94.35.162 2 2 6611 20171121184448
+92.37.211.0 1 1 3204 20171109084435
+35.196.27.164 1 1 2802 20171116200826
+217.20.177.93 0 1 74897 
+178.213.207.195 2 2 6650 20171111222528
+194.146.189.140 0 1 74897 
+213.24.127.103 1 1 3204 20171106202355
+199.19.104.163 5 5 185317 20171117140715
+185.30.88.120 0 1 556325 
+138.197.155.152 0 1 63064 
+195.70.67.100 0 1 4145 
+185.11.49.52 2 2 6611 20171117111534
+194.67.221.77 2 2 104745 20171125081314
+188.170.195.45 2 2 6650 20171117175852
+193.34.94.178 4 58 2070748 20171108115500
+77.123.105.252 2 2 54755 20171112123554
+178.92.155.135 1 1 69385 20171114192708
+188.166.71.105 0 3 194925 
+5.62.41.67 1 1 51953 20171111184054
+82.147.78.11 1 1 3204 20171110085904
+188.113.32.27 1 1 3204 20171107185140
+95.220.67.120 3 61 2562954 20171108080702
+195.43.70.133 2 2 6650 20171129162529
+173.252.84.119 2 10 1012581 20171117053547
+89.28.167.77 10 10 33055 20171122133548
+46.211.1.180 1 1 49430 20171101122004
+195.20.4.106 6 84 4213464 20171106090238
+103.240.17.73 87 87 38367 20171130200646
+91.250.61.80 5 61 2695419 20171121205620
+37.52.107.176 2 2 6611 20171113135014
+46.227.138.118 1 1 49430 20171103010420
+178.92.8.65 2 2 134890 20171121201445
+46.191.218.50 2 2 6611 20171113063353
+178.205.8.93 1 1 3204 20171101125345
+46.181.167.10 1 1 3204 20171110150507
+213.155.219.85 1 1 3204 20171107112415
+217.79.12.29 4 4 13222 20171117140241
+110.169.129.210 1 2 37627 20171128103355
+176.59.53.246 2 2 6611 20171122030022
+165.227.105.146 1 1 51953 20171109172936
+109.251.129.110 0 1 211208 
+85.115.37.180 0 1 53382 
+62.149.143.95 3 3 1317 20171130204621
+185.81.157.39 1 1 51939 20171118042732
+212.55.70.187 1 1 65505 20171123163036
+92.46.253.244 2 2 6611 20171122055906
+195.114.136.61 4 70 3476886 20171114201129
+130.180.216.40 5 64 2574617 20171117204332
+46.243.160.32 0 1 54986 
+62.183.86.165 2 2 6650 20171122050840
+80.251.112.195 2 2 6611 20171130064816
+93.89.61.137 1 1 3830 20171120205847
+198.98.61.187 1 1 3830 20171126060643
+83.167.101.207 6 6 19833 20171130101332
+88.87.86.36 2 2 6611 20171103132808
+85.140.66.14 0 1 175291 
+5.141.208.68 2 2 6650 20171112065225
+90.154.93.189 3 53 1495455 20171120002937
+133.242.54.221 7 7 54080 20171125063013
+77.123.27.23 4 64 1832323 20171125223113
+198.154.247.42 2 2 53233 20171130135620
+85.172.10.51 2 2 6408 20171110084644
+93.190.17.118 1 1 3204 20171108195915
+178.215.97.88 6 6 19872 20171112195601
+89.252.30.249 1 1 50664 20171126004335
+46.118.11.151 105 750 31919706 20171121221903
+82.117.194.229 1 1 186 20171122070204
+198.154.224.223 1 1 3830 20171123023117
+188.94.34.61 4 4 13222 20171119003043
+36.66.114.249 1 1 3830 20171126231835
+193.107.60.246 1 1 3204 20171109135527
+80.58.201.155 1 1 3830 20171122040259
+221.13.12.78 1 1 51953 20171111004730
+37.115.177.88 1 1 65505 20171121204246
+93.94.233.241 1 1 3204 20171106180333
+95.134.9.220 7 72 7699676 20171114180450
+46.211.106.189 1 3 173235 20171127164137
+62.33.49.153 2 2 6611 20171114234931
+31.40.106.68 3 3 163562 20171122225953
+36.67.24.211 2 2 6632 20171103042052
+218.77.95.34 1 1 52792 20171129170919
+188.123.253.47 2 2 6650 20171120131412
+176.108.120.8 1 1 69387 20171114092827
+92.46.28.83 0 1 656045 
+85.173.179.115 1 1 3204 20171106204921
+37.73.193.93 1 1 50664 20171125081813
+188.16.36.182 1 1 3204 20171101060222
+77.121.151.162 5 65 2275398 20171118003828
+89.105.158.229 2 2 6650 20171126091453
+46.211.129.215 1 5 643906 20171114142929
+94.25.171.196 2 2 6611 20171126153904
+41.46.35.111 1 1 51953 20171110191122
+136.243.95.154 7 7 304831 20171127050720
+92.124.207.118 0 1 209579 
+88.200.214.139 2 2 6650 20171101072703
+46.98.113.116 44 208 10058577 20171121085624
+211.20.238.33 1 1 3830 20171126051112
+178.151.17.6 1 1 65505 20171121223520
+212.83.155.65 1 1 173 20171119180435
+62.112.118.38 6 6 19833 20171125145638
+137.74.113.23 1 1 0 20171122070318
+81.200.8.152 2 2 6611 20171105105131
+212.26.236.163 1 1 3204 20171109080013
+204.79.180.7 3 107 2971059 20171114171931
+185.143.88.187 0 1 54986 
+128.72.121.50 3 61 1706015 20171130054253
+133.130.76.246 1 1 3830 20171123041039
+176.31.121.112 2 2 7660 20171123104705
+194.44.45.34 12 74 2794368 20171127215819
+188.163.110.75 0 1 74897 
+85.159.95.205 1 1 51939 20171120214447
+177.154.138.130 1 1 3830 20171122083842
+46.133.243.193 4 63 2694667 20171122115915
+104.236.227.241 1 1 3830 20171121185310
+80.251.112.202 2 2 6611 20171110011015
+91.195.3.117 4 63 2612469 20171117215154
+46.39.230.155 0 1 64792 
+95.24.17.242 0 1 422347 
+58.248.203.192 1 1 51953 20171111093950
+177.154.154.139 1 1 3830 20171123094051
+46.101.18.209 0 1 63476 
+63.143.51.249 2 2 7660 20171123172942
+46.173.69.17 1 1 3204 20171101204338
+85.26.164.184 2 2 6650 20171110175426
+37.144.41.228 3 57 1530671 20171109051932
+91.232.158.243 4 55 1656256 20171120113648
+78.106.39.21 2 2 6650 20171112092932
+94.244.136.19 5 64 2189318 20171126011337
+188.162.166.228 1 1 3204 20171109073809
+188.165.204.226 1 1 3830 20171124011953
+130.180.212.36 1 1 69385 20171114173708
+94.231.103.50 2 2 7660 20171123191513
+77.247.243.175 0 1 54986 
+13.84.148.243 61 61 41647 20171117212203
+88.135.63.199 1 1 3204 20171102102001
+87.255.31.142 10 10 33055 20171129234811
+94.76.74.186 1 1 69387 20171114091054
+188.115.153.70 0 1 63476 
+5.196.39.192 5 5 19150 20171124040220
+46.175.145.41 1 1 65428 20171121193239
+37.73.225.21 3 5 264490 20171102094016
+202.46.50.85 1 1 51726 20171103130403
+188.187.183.61 2 2 6650 20171129201511
+195.88.114.67 3 30 799802 20171128102815
+188.243.110.164 1 1 3204 20171108133232
+5.187.69.52 2 2 6611 20171106000149
+204.79.180.2 6 94 2931518 20171125173730
+83.149.44.19 1 1 3204 20171109171237
+78.132.169.237 2 2 6611 20171116201546
+80.90.225.27 0 1 38270 
+104.128.238.81 1 1 3830 20171123174320
+176.59.3.115 4 63 2024655 20171125190810
+204.79.180.11 6 101 2957532 20171123023239
+81.200.8.113 2 2 6650 20171128192010
+45.33.15.94 1 1 51726 20171107115136
+185.147.82.114 2 2 51939 20171121082236
+81.103.96.31 0 1 4145 
+94.23.54.193 1 1 3830 20171123003918
+109.60.155.212 2 2 6611 20171106034338
+62.33.107.217 2 2 6611 20171130214555
+94.50.194.225 2 2 6611 20171112175120
+82.223.30.109 2 2 7660 20171123172039
+141.101.23.122 4 73 3785136 20171101132700
+34.204.96.160 1 1 0 20171115035533
+95.220.93.189 1 7 265426 20171112115843
+95.164.54.28 1 1 65428 20171121181453
+185.119.81.24 2 2 6632 20171107134510
+178.62.220.63 0 1 74897 
+104.153.59.141 1 1 3830 20171124022201
+91.193.130.126 30 176 8633463 20171121154554
+95.110.200.241 1 1 52792 20171122104820
+193.111.136.196 2 2 7660 20171123154727
+67.225.222.21 26 26 11414 20171130210103
+52.32.225.94 1 1 3830 20171122191132
+95.72.37.30 4 4 13222 20171129111743
+93.80.152.161 1 17 497660 20171124195903
+46.219.240.157 3 3 167441 20171102104307
+178.137.82.201 63 63 94643 20171114220103
+193.104.133.97 0 1 62114 
+200.54.103.76 1 1 3830 20171126122359
+206.180.165.147 1 1 51726 20171102011801
+31.43.105.204 1 1 69373 20171116213502
+128.72.74.163 0 2 93170 
+36.73.159.234 2 2 6611 20171121063203
+46.8.158.227 0 1 54986 
+176.108.15.109 0 1 59284 
+93.75.0.3 0 1 242908 
+188.18.243.136 2 2 6650 20171117173437
+178.155.6.54 2 2 6611 20171115205343
+95.191.192.30 6 6 19872 20171106120136
+185.86.4.171 5 5 14010 20171126165335
+193.16.208.14 0 1 63476 
+93.73.4.226 1 1 51551 20171127144834
+37.145.208.67 2 2 6650 20171126193423
+27.111.42.145 2 2 6632 20171128040354
+217.66.158.60 0 1 64792 
+213.111.200.176 0 1 74897 
+5.58.97.181 2 2 117056 20171126225318
+195.154.223.224 1 1 3830 20171123185404
+46.39.230.115 2 2 6611 20171110143458
+46.149.90.135 2 2 131010 20171122175214
+86.105.60.72 1 1 3204 20171109200419
+2.72.141.71 0 1 242908 
+190.60.95.3 2 2 7660 20171122090852
+209.213.104.101 4 4 1756 20171125095236
+204.79.180.20 8 92 2769930 20171123023128
+158.58.133.190 4 63 1799146 20171129131028
+178.91.21.105 0 1 87663 
+202.46.54.190 1 1 52792 20171128025812
+46.72.214.11 2 2 6611 20171118085535
+37.73.202.14 4 70 4086195 20171115101413
+213.251.185.53 1 1 3830 20171122154843
+188.162.167.17 0 1 39110 
+94.25.179.5 1 1 3204 20171106202635
+52.76.205.59 3 3 11490 20171123225416
+85.140.3.146 0 1 422347 
+125.134.209.26 1 1 51726 20171101092939
+37.59.128.44 1 1 3830 20171124051832
+185.171.50.102 1 1 3830 20171122170837
+145.255.8.186 2 2 6611 20171118135052
+66.102.9.144 5 22 685474 20171111102849
+91.193.131.119 5 70 7281168 20171117215517
+46.219.220.231 1 1 51551 20171126221048
+99.203.128.215 1 1 51551 20171127073258
+95.78.69.223 2 2 6611 20171104132719
+37.59.100.63 1 1 3830 20171122040924
+109.172.55.2 2 2 6650 20171117132905
+5.138.174.28 0 1 79503 
+94.230.122.58 0 1 87140 
+78.27.131.90 2 2 120049 20171125080837
+46.42.168.242 2 52 1402337 20171103012444
+212.20.45.184 8 8 26483 20171130130844
+89.111.187.250 0 1 54986 
+107.167.107.49 4 84 4108017 20171128105719
+220.181.132.179 4 51 1447186 20171104211533
+212.103.97.221 0 1 422347 
+149.202.170.28 1 1 3830 20171121223358
+138.197.202.197 1 1 121071 20171110162135
+185.203.242.53 2 4 105042 20171104112414
+37.52.201.44 8 80 3067857 20171125060434
+46.159.18.154 2 2 6650 20171127152112
+95.181.2.47 1 1 3204 20171101094353
+188.163.37.116 0 1 54060 
+95.24.146.125 3 49 1368972 20171114170351
+46.146.226.211 6 6 19833 20171129134037
+54.188.33.159 2 2 7660 20171121150211
+134.249.58.222 0 1 54986 
+94.24.244.182 18 18 59616 20171129113218
+189.59.1.186 2 2 6632 20171107200658
+94.253.34.160 2 2 6611 20171128185144
+91.217.2.229 1 1 3204 20171109054628
+178.120.66.175 4 4 13222 20171110213038
+213.227.241.231 174 818 44429394 20171123123636
+31.220.56.93 1 1 3830 20171130015752
+204.79.180.8 10 99 2551758 20171123023232
+94.244.52.243 0 1 68286 
+176.116.9.57 1 1 51953 20171109051413
+92.222.121.214 12 12 214329 20171103223641
+85.26.164.11 2 2 6650 20171124183400
+46.148.138.158 2 2 6611 20171117204035
+217.77.219.3 4 56 2637849 20171106161023
+14.190.1.195 0 1 54986 
+85.238.103.51 0 1 68201 
+31.131.99.31 0 1 74897 
+145.255.3.165 2 2 6611 20171103141905
+193.106.170.57 4 4 13261 20171127152045
+31.13.114.54 2 34 1176436 20171126003818
+217.118.79.41 2 2 6611 20171101132806
+204.79.180.22 6 89 2417415 20171129184047
+46.211.145.168 10 39 2474033 20171115132222
+185.175.158.219 22 22 2238346 20171116010527
+91.243.28.152 4 63 2015571 20171116222643
+92.244.101.98 4 69 7199297 20171114094855
+128.68.24.192 1 1 3204 20171106232606
+79.111.91.39 3 49 1403843 20171118095849
+213.87.123.91 1 1 3204 20171109200048
+217.118.93.98 0 1 556325 
+81.195.31.211 1 1 3204 20171108151547
+94.75.53.201 2 2 6650 20171119141306
+125.131.149.4 2 2 6632 20171117073107
+178.185.7.126 0 1 958915 
+92.112.42.88 5 65 2737790 20171102191709
+54.185.80.104 1 1 95628 20171123152113
+46.211.2.7 1 1 51551 20171126194834
+46.175.194.226 2 2 6650 20171114211002
+103.18.246.62 2 2 201974 20171101154807
+178.124.179.169 0 1 656045 
+37.187.71.95 1 1 3830 20171122060748
+79.110.131.123 2 2 130856 20171121185924
+91.195.173.90 4 62 2692061 20171101074757
+95.220.160.189 1 1 3204 20171110131758
+37.140.189.223 0 1 656045 
+177.8.169.254 1 1 3830 20171126151749
+212.129.9.141 11 11 42130 20171115090920
+81.171.110.107 2 2 112306 20171123175534
+85.140.56.130 2 2 6611 20171121102559
+46.98.234.64 4 63 2612469 20171117231146
+77.69.190.252 2 2 6632 20171110162132
+200.27.202.116 1 1 3830 20171123155607
+185.40.48.240 0 1 74897 
+92.113.51.204 1 1 50664 20171125005144
+92.241.70.174 1 1 3830 20171130192201
+217.118.136.171 284 284 28185632 20171127030549
+194.8.145.20 0 3 349486 
+213.155.228.161 0 1 4145 
+66.33.212.136 8 8 3512 20171128104526
+95.152.62.34 4 4 13300 20171109144405
+5.105.94.6 1 1 50664 20171125105619
+31.13.114.55 0 2 18588 
+87.244.173.30 1 1 52792 20171124075817
+46.242.9.71 2 2 6611 20171115180132
+134.17.24.234 0 1 60022 
+95.191.136.24 2 2 6650 20171114235739
+188.170.82.189 1 1 3204 20171110061515
+95.163.180.161 1 1 3204 20171107141433
+95.189.12.245 2 2 6611 20171104091813
+62.80.168.206 1 1 3830 20171126131945
+195.93.144.120 6 6 19911 20171128100622
+178.74.250.188 1 1 65505 20171121214606
+37.79.82.172 2 2 6611 20171124184847
+93.175.224.132 1 1 50664 20171125172322
+46.219.216.255 0 1 74897 
+46.183.144.14 3 3 116669 20171125042336
+91.193.131.116 13 208 10447318 20171115083635
+178.44.0.75 4 4 13261 20171121115900
+80.247.45.254 0 1 4145 
+95.79.97.141 1 1 3204 20171109095328
+62.183.83.34 1 1 3204 20171101101507
+31.128.108.80 1 1 51551 20171127101825
+93.189.27.197 10 10 75931 20171107215846
+5.164.98.56 2 26 833139 20171122011433
+95.189.19.141 2 2 6611 20171125091243
+133.218.178.165 1 1 51726 20171102053520
+95.153.128.135 0 1 422347 
+75.119.200.117 8 8 3512 20171130190352
+178.88.147.165 1 1 51953 20171113002906
+208.113.186.110 13 13 5707 20171130153004
+188.232.247.55 0 1 35347 
+78.132.170.185 2 2 6611 20171114192125
+52.197.196.227 1 1 3830 20171122073145
+82.200.41.62 1 1 3204 20171110062147
+46.211.100.19 1 1 50664 20171125180804
+195.191.83.66 2 2 6650 20171117113407
+109.195.183.85 4 4 13261 20171122033625
+46.175.160.9 3 3 185554 20171126192338
+156.67.106.49 2 2 67658 20171108180138
+188.234.242.76 1 1 3204 20171101052751
+46.133.119.64 2 2 98057 20171101092415
+187.33.5.110 1 1 51726 20171102163907
+188.166.238.82 1 1 3830 20171122153720
+31.132.181.98 2 2 6611 20171106162535
+193.106.30.98 4 4 3552 20171108045312
+31.13.113.195 1 19 4449489 20171114094900
+37.55.29.159 0 1 74897 
+54.247.146.149 1 1 3830 20171121094223
+95.143.15.10 0 1 656045 
+95.73.15.236 2 2 6611 20171109231422
+109.70.189.167 1 1 3204 20171109213543
+54.210.190.156 1 1 3830 20171122002333
+46.133.37.12 1 1 69384 20171101174321
+78.137.37.170 1 1 16858 20171114181132
+128.68.15.172 1 1 3204 20171101221248
+5.77.27.24 1 1 3204 20171107084837
+46.211.102.174 1 1 69385 20171115105000
+46.211.99.71 1 1 49430 20171101215733
+213.33.234.22 2 2 6611 20171127112946
+159.20.215.254 1 1 2802 20171114082121
+201.219.216.142 2 2 54528 20171104054338
+31.216.37.189 1 1 3830 20171122133013
+91.219.101.137 2 2 6611 20171117144752
+46.38.44.51 4 63 1843982 20171120114725
+46.175.85.195 0 1 117955 
+200.11.149.115 2 2 7660 20171122170443
+188.16.122.107 2 2 6611 20171120010206
+66.102.9.146 1 27 1896490 20171111101619
+204.79.180.18 7 103 3192040 20171115164724
+212.90.61.10 0 1 656045 
+31.148.254.190 0 2 110446 
+92.241.163.60 1 1 51726 20171105135731
+95.134.101.131 0 1 74897 
+91.234.78.190 0 1 63476 
+95.134.118.173 1 1 51551 20171127222815
+94.180.192.187 0 1 14292 
+128.68.223.155 3 61 1760675 20171125065300
+93.80.160.134 1 1 3204 20171109110529
+212.115.252.32 1 1 69385 20171114212341
+31.23.61.202 2 2 6650 20171127183711
+128.72.76.67 0 1 14292 
+194.44.43.57 1 1 65428 20171121181620
+175.100.20.225 0 1 54986 
+188.115.165.79 0 1 74897 
+89.36.211.128 2 2 0 20171122070929
+176.107.170.95 1 1 69387 20171114084132
+5.135.105.37 2 2 7660 20171124062616
+186.71.166.170 0 1 4145 
+93.75.151.236 0 7 414468 
+78.136.240.42 1 1 3830 20171126063920
+46.219.222.192 1 1 65428 20171121191641
+198.245.49.199 2 2 7660 20171124024324
+176.120.100.228 4 4 224038 20171126202712
+94.23.26.102 1 1 3830 20171121060306
+130.180.216.107 0 2 1446946 
+178.129.196.95 2 2 6611 20171104141914
+195.242.80.92 1 1 45945 20171110062555
+200.143.203.78 1 1 3830 20171123221805
+85.140.22.119 0 1 175291 
+95.137.202.9 2 2 6611 20171104183331
+46.39.46.19 1 1 3204 20171108143142
+178.207.124.183 2 2 6611 20171112103527
+145.255.1.80 2 2 6650 20171128124112
+54.219.178.100 4 4 209462 20171126054403
+78.85.48.68 1 1 1 20171128195708
+185.129.148.181 1 1 186 20171102085125
+94.178.98.3 7 83 3450319 20171127234048
+195.2.244.193 1 1 3830 20171130053228
+202.46.55.150 1 1 52792 20171125231142
+88.206.110.66 6 6 316304 20171120121650
+178.140.90.191 6 6 19911 20171118225229
+46.133.99.9 1 1 69387 20171114084047
+176.115.121.13 8 8 26483 20171121001354
+213.87.149.248 2 2 6611 20171109173501
+194.28.102.33 1 1 51551 20171126213228
+31.131.99.70 0 1 74897 
+193.104.16.21 7 79 2985752 20171128121005
+78.85.48.224 2 2 6611 20171101144544
+91.124.192.239 7 71 2869215 20171117204852
+72.167.93.57 19 19 8379 20171112192934
+179.156.185.216 2 2 6650 20171110000551
+178.151.187.235 2 2 102215 20171130034847
+109.120.37.116 1 1 3204 20171107125902
+45.32.146.13 1 1 21674 20171124225706
+178.120.24.230 2 2 6650 20171116223954
+5.187.68.175 2 2 6611 20171128192753
+204.79.180.23 3 73 2525352 20171129184059
+37.110.148.171 3 49 1396918 20171112131037
+66.220.152.2 2 23 1521632 20171127224255
+24.100.95.40 1 1 51551 20171127173526
+125.23.5.22 4 4 103454 20171103111023
+93.72.226.83 1 1 50664 20171125234948
+91.227.180.233 0 2 110446 
+176.125.193.207 2 2 6611 20171126184302
+188.162.229.252 2 2 6611 20171118033528
+188.120.198.193 1 1 3830 20171126201813
+31.148.135.228 1 1 51551 20171126194901
+66.220.152.3 0 17 481270 
+5.16.31.83 0 1 124675 
+95.221.191.174 0 6 47815 
+196.52.32.18 8 8 413341 20171118183725
+80.85.158.135 0 1 54986 
+176.52.4.13 2 2 6611 20171104220203
+204.79.180.12 10 108 2769273 20171129184057
+162.219.249.227 12 12 214329 20171103093641
+94.25.228.43 2 2 6650 20171107210532
+218.64.57.12 2 2 6632 20171117071143
+204.79.180.13 4 111 3682880 20171123202318
+35.176.74.167 0 1 54986 
+176.105.213.245 7 70 2424004 20171112153143
+5.58.43.96 4 64 1840775 20171125104846
+194.0.52.2 8 8 26444 20171125131010
+212.3.130.72 4 4 13261 20171114182123
+109.248.59.143 0 1 54986 
+82.193.131.158 6 6 19833 20171113094735
+130.180.218.42 1 6 77588 20171122151629
+176.215.5.30 6 6 19872 20171116134345
+158.69.252.228 1 1 52792 20171121232258
+58.248.201.226 1 1 51726 20171105110029
+109.173.110.80 0 20 741977 
+178.34.161.46 2 2 6650 20171116195947
+91.144.159.133 0 1 46142 
+46.133.253.108 1 1 51551 20171126195131
+89.218.37.194 0 1 39110 
+93.170.139.94 1 1 3204 20171109164534
+37.52.249.74 1 1 49430 20171101234353
+95.66.204.254 6 6 19911 20171127220436
+109.224.246.196 0 1 4145 
+31.180.78.230 1 1 3204 20171109062927
+188.165.128.69 1 1 3830 20171122073342
+46.211.126.209 4 63 2694590 20171121192459
+31.130.91.37 2 2 6611 20171129162635
+90.151.93.167 2 2 6650 20171102022347
+46.105.103.59 91 91 347502 20171101125803
+2.134.72.236 2 2 6611 20171101135615
+2.94.74.169 2 2 6650 20171124105919
+109.198.122.33 0 1 4145 
+109.169.188.87 2 2 6611 20171118141342
+94.50.5.113 1 1 3204 20171102114020
+35.196.151.144 2 2 5604 20171109154359
+193.68.51.164 1 1 3830 20171124022251
+200.33.79.8 3 3 11490 20171122140911
+188.191.239.13 1 1 51551 20171126194933
+188.115.153.186 0 1 74897 
+77.37.180.12 3 49 1389241 20171108204435
+171.5.148.137 2 2 6650 20171104091317
+197.81.131.38 1 1 3830 20171123093412
+194.44.150.132 1 1 51551 20171128152311
+193.106.30.99 11 11 118645 20171129062052
+88.147.174.222 2 2 6611 20171102172612
+178.140.117.248 0 4 75980 
+95.31.84.146 2 2 6611 20171101044145
+46.211.104.138 1 1 65505 20171122155245
+149.202.63.142 1 1 3830 20171123120838
+89.255.6.194 0 1 4145 
+197.231.192.10 2 2 7660 20171122010133
+74.208.75.127 1 1 3830 20171123140421
+110.136.170.138 2 2 6611 20171120120828
+46.175.185.114 0 1 74897 
+176.20.216.104 1 1 3830 20171121141149
+204.79.180.0 8 109 3242117 20171123202305
+91.206.110.73 0 1 54060 
+88.147.153.54 4 4 13261 20171109074154
+94.244.61.40 1 1 50664 20171125085244
+77.222.100.20 0 1 656045 
+80.93.119.43 0 1 64792 
+88.135.218.12 19 227 9095508 20171129200543
+87.98.227.4 6 6 301581 20171130181857
+76.14.50.165 1 1 3830 20171123015156
+93.95.241.162 1 1 3204 20171102063055
+178.213.6.142 1 1 58465 20171125172005
+163.17.100.10 1 1 3830 20171123161226
+94.197.121.241 4 74 2951375 20171127113633
+5.187.68.53 2 2 6650 20171110231824
+46.250.115.207 1 1 69385 20171114215226
+212.164.94.132 4 4 13222 20171130100305
+185.189.112.165 7 7 706909 20171122002434
+186.88.138.176 0 1 54986 
+188.170.82.210 2 2 6611 20171104181930
+91.193.222.10 1 1 3204 20171107160816
+109.63.219.9 3 49 1389241 20171107092645
+82.135.58.36 1 1 3830 20171122044152
+94.23.37.127 1 1 3830 20171122085950
+92.127.209.146 2 2 6650 20171113000258
+146.185.223.5 63 63 94631 20171119201733
+46.211.153.188 2 2 102215 20171127173832
+202.46.54.196 1 1 52792 20171125090302
+188.162.64.145 2 2 6611 20171122215644
+79.143.111.178 4 65 4179193 20171127154656
+74.94.80.101 1 1 3830 20171126075437
+178.218.29.134 4 4 13222 20171127230054
+188.232.240.53 0 1 376371 
+178.151.149.246 1 11 278570 20171116173447
+46.149.56.2 0 1 74897 
+91.185.49.58 1 1 3204 20171107124605
+77.232.48.86 1 1 3204 20171109120622
+212.3.195.50 4 63 2015571 20171126162938
+31.173.101.56 1 1 3204 20171109082106
+37.52.104.76 2 2 6650 20171101123511
+78.85.142.161 2 2 6650 20171104172551
+31.13.113.192 1 18 889879 20171114094904
+95.213.141.126 8 88 3906941 20171130122549
+94.179.51.232 1 1 65505 20171123193658
+46.211.145.176 4 65 1797471 20171103193537
+89.28.163.105 4 4 13261 20171124194058
+176.15.28.243 3 61 1940152 20171125185110
+37.113.15.248 2 2 6611 20171115153905
+92.37.142.246 2 2 6650 20171105153551
+42.159.237.189 1 1 441 20171128180718
+212.175.77.165 8 8 26444 20171125122707
+94.78.232.158 2 2 6611 20171122153823
+188.146.106.246 1 1 69387 20171114114457
+178.93.148.231 5 5 286457 20171127201043
+58.229.6.6 2 2 7660 20171122234444
+178.90.220.11 2 2 6611 20171113053834
+213.24.134.252 8 8 26483 20171113000832
+162.220.112.20 1 1 3830 20171120231233
+88.200.137.129 2 2 6611 20171109153209
+185.143.91.203 0 1 54986 
+195.238.117.146 0 1 161225 
+46.175.195.2 2 2 6611 20171109003523
+173.252.84.114 1 34 4807099 20171117053547
+188.32.244.40 0 1 556325 
+89.178.91.242 3 61 2537064 20171107222604
+217.160.128.59 1 1 3830 20171121161751
+77.239.174.174 1 1 50664 20171125185722
+193.19.240.114 0 1 74897 
+52.58.183.240 1 1 3830 20171122112937
+193.219.124.187 0 1 52571 
+109.235.184.178 0 1 56359 
+95.73.254.45 0 2 78220 
+2.60.2.55 2 2 6650 20171111134951
+62.148.148.19 2 2 6408 20171109111340
+94.251.32.89 2 2 6650 20171130200754
+93.95.189.64 3 3 1690 20171115051502
+31.173.101.22 2 2 6611 20171107064350
+204.79.180.15 7 109 3063441 20171130215638
+195.191.158.223 4 4 13261 20171122154639
+188.186.97.130 2 2 6650 20171120102736
+109.248.250.116 0 1 54986 
+31.8.86.65 2 2 6611 20171101071146
+5.199.141.232 1 1 3830 20171122092551
+5.2.211.92 1 1 52792 20171127123958
+46.219.52.214 1 1 65505 20171121203539
+218.71.149.68 1 1 51951 20171116101749
+178.167.28.178 2 2 6650 20171112220657
+5.228.17.112 3 29 662526 20171117055603
+217.25.221.9 1 1 3204 20171109114934
+92.244.224.115 2 2 6611 20171119134341
+91.105.172.236 1 1 3204 20171101113614
+85.95.178.76 2 2 6611 20171111151152
+83.149.44.47 4 4 13300 20171115103828
+158.181.19.200 0 3 446684 
+212.124.19.13 2 2 6650 20171105210832
+188.191.239.54 4 65 7348648 20171105160020
+51.15.212.104 2 2 102215 20171126225622
+178.151.3.104 1 1 50664 20171127125125
+93.63.242.219 1 1 3830 20171121195702
+77.243.183.120 4 75 3794671 20171112115246
+94.25.169.206 2 2 6611 20171115095419
+41.160.118.226 1 1 3830 20171126024425
+178.207.47.123 2 2 6611 20171105191204
+178.49.64.13 2 2 6611 20171127191844
+83.149.45.2 0 1 656045 
+188.32.7.26 3 49 1386136 20171102105650
+91.242.43.162 3 61 1707785 20171123130211
+84.234.59.246 2 2 6611 20171106181205
+213.111.253.40 0 1 54060 
+176.36.158.121 1 1 56349 20171107211803
+195.154.252.21 1 1 3830 20171122024748
+178.94.172.194 1 1 49430 20171103172511
+94.29.109.46 2 2 6611 20171128144535
+54.163.150.107 1 1 3830 20171121130135
+188.123.241.29 2 2 6650 20171103222351
+81.211.92.154 8 8 26483 20171122173809
+91.200.12.88 33 33 125362 20171106175720
+89.28.167.109 2 2 6650 20171101194836
+88.200.136.12 2 2 6611 20171121223713
+212.124.19.58 2 2 6611 20171114060723
+46.201.48.128 1 1 50664 20171125204751
+91.242.193.183 8 8 26483 20171126101516
+85.223.184.10 3 23 549628 20171117094704
+46.211.149.164 4 85 3979453 20171120174109
+94.25.168.15 1 1 3204 20171106174608
+5.228.16.163 45 748 21531370 20171123155449
+173.252.84.115 2 24 690781 20171122011026
+185.85.191.196 2 2 6593 20171105165828
+85.115.224.207 2 2 6650 20171115232513
+89.146.91.222 0 1 79503 
+95.24.201.47 3 45 1313261 20171103230442
+88.200.136.124 2 2 6611 20171120042436
+46.175.75.249 0 1 74745 
+188.17.193.207 1 1 3204 20171107153549
+93.75.182.183 2 2 138770 20171114230337
+31.13.114.48 0 3 62637 
+185.104.251.200 0 1 54986 
+59.19.50.41 2 2 6611 20171112113920
+78.137.22.9 2 2 102215 20171126210032
+91.237.241.59 1 1 51551 20171127092043
+94.253.117.65 2 2 6611 20171127184144
+5.19.7.124 2 2 6611 20171115201801
+37.190.14.213 2 2 6611 20171101225329
+23.22.80.160 4 4 15320 20171124073855
+130.180.217.246 0 1 723473 
+130.180.220.146 0 1 723473 
+95.28.190.43 4 45 1314091 20171105091803
+176.115.99.248 4 63 2015585 20171106211335
+31.184.241.78 0 1 54986 
+77.122.30.213 4 70 4210736 20171101011941
+218.244.128.77 1 1 3830 20171123153843
+46.133.93.49 8 69 2235518 20171105121225
+92.222.47.155 2 2 7660 20171122054152
+46.119.112.250 203 203 192224 20171125054208
+188.165.214.94 2 2 7660 20171122225445
+103.39.250.240 2 2 7660 20171123020314
+31.13.113.199 1 23 1542854 20171114094902
+37.204.152.229 3 49 1363247 20171109235616
+5.166.68.15 2 2 6611 20171119142210
+188.190.69.98 0 1 74897 
+202.46.51.26 1 1 51726 20171102132406
+93.78.250.206 1 1 69385 20171115204420
+178.93.148.132 1 1 65505 20171122205633
+185.9.157.182 0 1 54986 
+92.113.147.191 4 73 3785136 20171106121438
+94.29.126.113 1 1 3204 20171110174455
+46.219.216.15 1 1 50664 20171125084147
+159.148.200.254 1 1 3830 20171127012030
+46.133.235.148 0 1 74897 
+178.34.161.38 2 2 6611 20171112194430
+109.173.60.190 3 49 1377012 20171108155113
+194.44.215.156 9 83 3338722 20171127161357
+178.68.113.11 2 2 6611 20171107174021
+80.95.45.57 2 2 6611 20171102084625
+46.133.93.237 0 1 35347 
+81.200.8.233 2 2 6611 20171104154711
+46.62.94.58 0 1 958915 
+204.79.180.3 7 105 2973985 20171125173726
+213.87.160.144 0 3 1968135 
+52.187.40.227 1 1 3830 20171123122228
+213.251.182.107 2 2 53233 20171129013500
+79.120.80.50 4 4 13222 20171119121724
+110.169.104.14 0 1 4145 
+194.15.117.19 6 6 19911 20171111092118
+95.213.141.124 5 74 3784635 20171117234447
+58.187.161.179 0 1 54986 
+178.137.137.47 1 1 69385 20171114210009
+95.134.112.42 0 1 74897 
+195.128.182.31 1 1 51551 20171127172630
+95.78.208.169 1 1 3204 20171101100808
+83.169.216.224 1 1 3204 20171110192206
+109.168.191.245 2 2 6611 20171101212534
+188.116.178.217 4 65 3101186 20171113203248
+213.160.143.10 7 70 2794346 20171108110710
+74.88.171.166 1 1 51551 20171126232342
+95.180.246.129 0 1 54986 
+178.91.20.120 0 3 336679 
+204.79.180.5 7 104 2861935 20171116001313
+31.202.241.91 1 1 65505 20171122083038
+133.130.101.237 2 2 7660 20171123130759
+204.79.180.1 3 108 2459977 20171128171514
+93.89.209.195 0 1 51732 
+213.168.37.86 1 1 3830 20171130124153
+91.78.126.231 2 2 6611 20171127143150
+185.120.253.192 0 1 54986 
+46.133.123.95 10 76 3054821 20171123161643
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20171101 1731 2369 44121836 86
+20171102 200 716 26228777 56
+20171103 1550 1893 20149515 43
+20171104 122 660 23252408 53
+20171105 89 525 22273715 38
+20171106 151 969 39293362 61
+20171107 164 721 22094929 63
+20171108 3055 3427 26855060 58
+20171109 137 473 14034912 85
+20171110 176 236 3802933 77
+20171111 68 275 8338582 37
+20171112 1860 2401 28178183 56
+20171113 13493 13652 43839310 40
+20171114 295 1548 79507235 88
+20171115 102 679 40591368 47
+20171116 156 693 33739329 35
+20171117 3115 3900 55891502 55
+20171118 76 480 17316453 36
+20171119 149 518 19113011 33
+20171120 122 664 24481634 52
+20171121 336 1282 51410342 127
+20171122 10284 10822 63606405 154
+20171123 1967 3193 52735918 112
+20171124 75 231 9454030 54
+20171125 337 921 25149469 80
+20171126 208 502 14713322 85
+20171127 366 1032 52895260 71
+20171128 117 612 19899077 65
+20171129 827 1334 27024690 44
+20171130 106 383 15183497 67
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 32
+30mn-1h 23
+0s-30s 1843
+2mn-5mn 17
+15mn-30mn 14
+1h+ 8
+5mn-15mn 21
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 123
+/wp-login.php 34013 129148933 959 956
+/xmlrpc.php 5215 37355229 230 239
+/wp-content/themes/betheme/style-colors.php 405 7513592 86 83
+/wp-content/themes/betheme/style.php 401 1037200 66 151
+/ 201 10106266 143 82
+/wp-content/themes/betheme/fonts/mfn-icons.woff 145 8387380 3 106
+/wp-admin/admin-ajax.php 121 1264855 3 4
+http://ecospectr.com/wp-login.php/ 90 344700 1 1
+/akkumulyatory-elektrokaratop-5-voprosov-i-otvetov/ 88 6048894 79 56
+/yurist-iz-dnepra-rasskazal-o-tom-kak-mozhno-zarabatyvat-na-prodazhe-elektroenergii-ustanoviv-na-kryshe-svoego-doma-solnechnye-paneli/ 70 4593137 58 51
+//wp-admin/admin-ajax.php 1 1 1 1
+/wp-admin/customize.php 5 2343958 0 0
+/contact/ 17 539267 2 4
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff 1 7536 0 0
+/wp-admin/media-new.php 1 63982 0 0
+/solnce/ 3 57338 0 0
+/index.php 3 156244 2 2
+/wp-content/plugins/contact-form-7/wp-contact-form-7.php 1 205 1 1
+/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu/ 4 196541 2 1
+/comments/feed/ 2 880 0 0
+/wp-content/themes/twentyfifteen/footer.php 1 310 1 0
+/tag/ekonomichnoe-otoplenie/ 2 105218 0 1
+/wp-content/plugins/hello.php 6 1038 5 5
+/tag/elektrootolenie/page/2/ 1 55900 0 0
+/solnce/montazh-solnechnoj-elektrostancii/ 46 2125222 38 29
+/fantasticheskaya-zaryadka-elektrokara-bmw/ 1 49510 1 0
+/wp-content/themes/twentyfifteen/404.php 1 184 0 0
+/wp-admin/load-styles.php 15 846985 0 0
+/tak-dolzhny-zhit-vse-zhiteli-ukrainy/ 1 47404 0 0
+/feed/atom/ 14 1210323 0 0
+/wp-admin/load-scripts.php 29 2961797 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17484 0 0
+/solnce/proektirovanie/ 4 103496 2 0
+/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/ 1 51105 1 0
+/tag/dvuxzonnyj-schetchik/ 2 113303 1 1
+/elektrozashhita/audit/ 7 298060 7 3
+/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-5/ 66 3361734 55 48
+/veter/montazh-vetrogeneratorov/ 25 870664 21 16
+/wp-json/wp/v2/users 16 8896 0 0
+/avto/elektrozapravka-ecospectr/ 18 980145 15 3
+/wp-content/index.php 2 0 2 2
+/wp-content/themes/twentyfifteen/content-link.php 1 208 1 1
+/tag/kupit-tesla/ 2 126104 2 0
+/tag/zelyonyj-tarif/page/3/ 1 45600 1 0
+/o-nas/ 9 312653 2 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 400572 0 0
+/5-prichin-ustanovit-solnechnuyu-elektrostanciyu-pryamo-sejchas/ 3 203146 3 0
+/tag/zakonnaya-ekonomiya-elektroenergii/ 3 192423 0 1
+/wp-content/themes/twentyseventeen/404.php 3 558 3 3
+/istoriya-iz-zhizni/ 1 37677 0 1
+/kak-ekonomit-gaz/ 10 576714 5 0
+/wp-content/themes/twentyfifteen/archive.php 1 188 1 1
+/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-3/ 3 169546 1 1
+/mercedes-benz-investuye-1-mlrd-dolariv-v-amerikanske-virobnictvo-elektrokariv/ 9 438562 4 4
+/solnechnaya-elektrostanciya-kak-alternativa-depozitu-v-banke/ 47 2380692 39 39
+/ecospectr/ 3 166933 2 2
+/feed/ 13 1019638 5 8
+/category/elektrozashhita/page/2/ 1 45442 0 0
+/wp-admin/async-upload.php 2 424 0 0
+/sample-page/feed/ 2 798 0 0
+/elektrozashhita/ 1 28777 1 0
+/tag/zaryadka-elektro-avtomobilya/ 1 63302 1 0
+/wp-json/oembed/1.0/embed 4 5352 0 0
+/author/admin/page/4/ 1 46015 0 0
+/tag/tarif-elektrootoplenie/page/2/ 2 131120 0 1
+/wp-admin/widgets.php 1 297206 0 0
+/wp-json/ 4 363213 2 2
+//xmlrpc.php 6 757122 1 1
+/wp-admin/post-new.php 2 1525771 0 0
+/rozetka-protiv-zapravki-gde-i-kak-zaryazhat-elektroavtomobil/ 7 403989 5 1
+/tag/ustanovka-vetrogeneratora/ 1 44928 1 0
+/solnechnye-paneli-ustanovili-uzhe-bolee-1600-ukrainskix-semej/ 6 310987 6 1
+/otoplenie/montazh-elektrootopleniya/ 6 214014 4 0
+/xotite-platit-045-grn-za-1-kvt-elektroenergii/ 2 112721 1 1
+/avto/elektroavtomobili/ 5 167438 3 1
+/wp-content/themes/twentyfifteen/content.php 1 203 1 1
+/wp-content/themes/betheme/fonts/mfn-icons.eot 7 599144 1 4
+/feed/rdf/ 1 94595 0 0
+/tag/montazh-geliopanelej/ 1 56271 0 0
+/wp-content/themes/twentyseventeen/footer.php 1 314 1 1
+/sistema-ekonomii-elektroenergii-ecospectr/ 10 391330 5 4
+/wp-content/plugins/index.php 2 0 2 2
+/tag/remont-nissan-leaf/ 1 46011 1 0
+/wp-admin/themes.php 5 1101326 0 0
+/wp-admin/post.php 17 16425364 0 0
+/wp-admin/ 6 662007 0 0
+/wp-load.php 1 0 1 1
+/wp-content/themes/twentyfifteen/author-bio.php 3 714 1 2
+/tag/tarif-elektrootoplenie/ 1 63980 1 0
+/wp-content/themes/index.php 1 0 0 1
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot 6 72816 1 3
+/wp-admin/edit.php 5 1042455 0 0
+/wp-content/themes/twentysixteen/404.php 1 184 1 1
+/wp-admin/nav-menus.php 5 2155785 0 0
+/tag/dvuxzonnyj-schetchik/page/2/ 2 113399 2 0
+/wp-admin/admin.php 1 150047 0 0
+/pochemu-elektro-otoplenie-vygodnee-gazovogo/ 17 811436 16 1
+/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozituch-4/ 6 309351 2 1
+/solnce/zelyonyj-tarif/ 14 589739 10 2
+/tag/bliskavkozaxist/ 2 92570 1 0
+/kredity-na-solnechnuyu-stanciyu-pod-001-v-god/ 2 93972 0 0
+/tag/ekonomiya-elektroenergii/ 3 158031 2 1
+/solnechnaya-elektrostanciya-kak-alternativa-bankovskomu-depozitu-ch-6/ 4 202392 0 0
+/solnce/solnechnye-kollektory/ 7 302443 1 1
+/tag/avtonomnoe-otoplenie/ 2 113257 0 0
+/tag/montazh-molniezashhity/ 1 46361 1 0
+/author/admin/ 29 1479321 3 9
+/wp-includes/class-walker-nav-menu.php 1 167 1 1
+/kakoj-kotel-vygodnee-gazovyj-ili-elektricheskij/ 27 1901752 11 3
+/tag/elektrootolenie/ 1 60202 1 0
+/tag/avtonomnoe-otoplenie/page/2/ 1 55912 0 1
+/v-mae-vetrogeneratory-obespechili-95-energopotrebleniya-shotlandii/ 2 107274 2 0
+/samaya-bolshaya-batarejka/ 1 45497 1 0
+/tag/ekonomichnoe-otoplenie/page/2/ 1 52114 1 0
+/mask-zayavil-pro-sensacionnye-novacii-v-tesla/ 1 45518 1 0
+/wp-includes/wlwmanifest.xml 8 7315 0 0
+/bliskavka-vbila-15-lyudej/ 2 97199 1 1
+/wp-admin/upload.php 1 128391 0 0
+/kak-sekonomit-na-otoplenii-gazom/ 4 244200 2 0
+/otoplenie/ 1 28715 1 0
+/kak-ekonomit-elektroenergiyu/ 4 232224 2 2
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 1 0 1 0
+/wp-admin/user/menu.php 2 318 0 0
+END_SIDER

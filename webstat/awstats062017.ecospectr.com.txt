@@ -1,0 +1,952 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.ecospectr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2697                
+POS_VISITOR 3811                
+POS_DAY 12871               
+POS_DOMAIN 13515               
+POS_LOGIN 13751               
+POS_ROBOT 13934               
+POS_WORMS 14770               
+POS_EMAILSENDER 14901               
+POS_EMAILRECEIVER 15044               
+POS_SESSION 15120               
+POS_SIDER 15331               
+POS_FILETYPES 18587               
+POS_DOWNLOADS 18925               
+POS_OS 19029               
+POS_BROWSER 19369               
+POS_SCREENSIZE 20668               
+POS_UNKNOWNREFERER 20742               
+POS_UNKNOWNREFERERBROWSER 21090               
+POS_ORIGIN 21240               
+POS_SEREFERRALS 21387               
+POS_PAGEREFS 21555               
+POS_SEARCHWORDS 21814               
+POS_KEYWORDS 21966               
+POS_MISC 2359                
+POS_ERRORS 22025               
+POS_CLUSTER 13607               
+POS_SIDER_404 22176               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170701000045 35870 8435079 8319947087091
+FirstTime 20170613160018
+LastTime 20170630235408
+LastUpdate 20170801153821 35870 0 35869 0 0
+TotalVisits 304                 
+TotalUnique 222                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 226                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 398 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 945 1024 7194992 61 109 1599392
+1 1283 1283 4964232 80 92 1187385
+2 4332 4332 16275841 71 77 747354
+3 838 838 3136214 63 82 728209
+4 38 170 4521780 85 93 777180
+5 2 2 50914 38 40 164709
+6 26 26 1493283 75 81 974075
+7 117 790 27875604 78 169 1615361
+8 128 698 31202703 284 344 5603608
+9 520 589 5170688 78 88 1112204
+10 91 844 13873801 68 152 2070763
+11 386 1475 53886006 98 213 1828935
+12 2299 3903 133582163 88 199 599024
+13 86 308 16542743 228 289 4175320
+14 980 1691 34211843 126 212 4338998
+15 1239 1307 20376014 191 203 1128693
+16 3974 4076 5562405 79 91 989585
+17 1666 2312 34305341 125 164 858317
+18 525 1107 48393145 199 279 1941131
+19 331 997 47888320 106 220 2233216
+20 2134 3172 88298983 107 216 1517048
+21 303 903 25379187 86 158 1175638
+22 144 260 10514840 62 81 585235
+23 40 40 960268 64 70 550673
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 226
+195.154.194.56 5245 5245 4787622 20170614171912
+91.200.12.103 2932 2932 10903827 20170625023956
+91.200.12.15 2932 2932 10903827 20170624032108
+91.200.12.28 2312 2312 8643796 20170623124426
+37.115.27.94 1742 7794 377477438 20170630202527
+198.204.235.28 1696 1696 6424837 20170622151514
+198.204.225.117 1696 1696 6425136 20170626204600
+91.200.12.92 1426 1426 5332212 20170618024418
+195.154.211.217 760 760 2812760 20170613231548
+93.127.98.159 687 2827 115466732 20170627142928
+202.46.52.142 1 1 50473 20170630235408
+111.113.7.234 2 2 6452 20170624150630
+196.54.55.35 7 7 299450 20170618155145
+163.172.4.153 1 1 49428 20170619023929
+88.99.141.3 1 1 50473 20170626110302
+175.197.69.41 1 1 50473 20170628025608
+202.46.58.83 1 1 50473 20170628065242
+5.254.97.71 1 1 39887 20170620004814
+112.148.101.10 1 1 441 20170618103311
+178.17.170.195 1 1 49428 20170618154409
+46.29.248.238 2 2 52310 20170618154627
+213.32.55.247 2 2 98856 20170618154556
+202.46.50.135 1 1 50473 20170623143339
+202.46.53.123 1 1 50473 20170627154648
+177.135.101.101 2 2 6452 20170621135804
+202.46.54.186 1 1 49401 20170616121234
+202.46.58.137 1 1 49401 20170616142200
+185.119.81.24 2 2 6413 20170629165202
+93.75.147.146 4 57 140918 20170619115923
+46.211.66.168 0 1 124675 
+91.200.12.65 179 179 668432 20170625184031
+35.192.20.62 1 1 48853 20170615203702
+159.203.196.79 1 1 50473 20170627083609
+54.92.247.164 1 1 48675 20170619171231
+192.160.102.166 4 4 151166 20170618154914
+192.160.102.170 1 1 49428 20170618154852
+81.23.22.6 4 73 3054464 20170622104153
+136.243.72.204 0 1 21607 
+92.63.91.3 8 8 25769 20170623131231
+89.234.157.254 10 10 401188 20170618155144
+23.249.130.118 1 1 49428 20170618154929
+66.70.217.179 4 4 151166 20170618155413
+124.204.35.130 1 1 50473 20170627084219
+149.202.98.160 1 1 49428 20170618154344
+167.114.42.233 10 10 1009870 20170622060912
+147.135.153.92 3 3 101738 20170618155633
+46.211.69.17 16 97 3878310 20170616110133
+202.46.50.159 1 1 49524 20170619141220
+216.218.222.12 4 4 151166 20170618154834
+185.87.185.45 3 3 148284 20170618154401
+154.70.198.130 2 2 6452 20170627083616
+167.114.243.147 1 1 48853 20170614112218
+202.46.58.209 1 1 50473 20170624070430
+46.211.148.182 6 28 1722522 20170623124806
+46.148.26.108 2 2 98856 20170618155053
+167.114.230.104 5 5 200594 20170618154118
+202.46.57.163 1 1 49428 20170619044041
+131.161.11.206 1 1 49401 20170616040359
+176.10.104.243 3 3 101738 20170618154401
+46.118.156.191 3 3 102105 20170624175242
+146.185.223.113 1 1 50174 20170622080810
+192.42.116.16 8 8 348878 20170618154538
+23.94.190.252 1 1 2882 20170616072955
+163.172.142.15 2 2 98856 20170618154811
+182.253.195.140 1 1 49428 20170618085259
+198.27.85.233 1 1 50473 20170629200308
+82.145.220.133 6 79 3382236 20170621144814
+91.247.36.240 1 1 50473 20170629020637
+198.96.155.3 3 3 148284 20170618154920
+45.32.130.87 1 1 49419 20170617045921
+37.53.94.106 3 3 63172 20170613164902
+35.192.37.241 1 1 48853 20170614211246
+45.62.242.232 3 3 101738 20170618154544
+93.115.95.206 1 1 49428 20170618155149
+109.236.8.8 1 1 49419 20170617161454
+173.239.210.22 2 2 52310 20170618154651
+79.137.80.94 1 1 49428 20170618154528
+173.254.216.66 7 7 252904 20170618155102
+46.211.144.39 3 3 64744 20170621144231
+185.129.62.62 2 2 98856 20170618155052
+113.104.244.60 1 1 49428 20170618085451
+195.254.135.76 2 2 52310 20170618154842
+93.115.95.207 2 2 98856 20170618155114
+64.113.32.29 2 2 98856 20170618154507
+185.72.244.24 3 3 148284 20170618154446
+222.223.204.54 2 2 6452 20170621142304
+40.118.30.86 1 1 18679 20170621190056
+69.164.111.198 54 274 7120131 20170621043235
+109.163.234.5 2 2 98856 20170618155216
+185.129.148.181 1 1 0 20170616030332
+77.247.181.165 5 5 200594 20170618155025
+202.46.55.15 1 1 50473 20170624155825
+86.106.16.197 2 2 52283 20170616154859
+188.129.172.117 2 2 6452 20170624150625
+163.172.136.101 1 1 48853 20170614060610
+52.87.86.158 1 1 50473 20170623044530
+192.126.195.245 1 1 49419 20170618010148
+149.202.50.209 1 1 49401 20170616072949
+185.70.186.176 2 2 277208 20170623152411
+34.207.240.145 1 1 48853 20170615013228
+144.217.161.119 2 2 98856 20170618154938
+109.69.67.17 4 4 151166 20170618154545
+51.15.63.229 4 4 197712 20170618155108
+37.72.190.222 2 2 52832 20170621012653
+89.148.15.164 2 2 6452 20170627083610
+46.182.19.219 1 1 49428 20170618154859
+109.163.234.9 3 3 148284 20170618155018
+103.240.17.73 23 23 10143 20170630084749
+202.46.58.165 1 1 50473 20170627164154
+138.197.207.243 2 2 52310 20170618155009
+109.236.8.10 1 1 49419 20170617161455
+78.27.166.54 4 72 3050058 20170621183745
+202.46.56.192 1 1 50473 20170628034847
+125.43.69.150 2 2 6452 20170624150355
+35.192.39.211 1 1 48853 20170615163058
+37.9.47.190 1 1 441 20170619015529
+202.46.55.61 1 1 50473 20170624100810
+156.67.106.211 19 19 66362 20170630115920
+23.20.10.114 1 1 48853 20170614232826
+46.211.136.102 1 1 34248 20170628152412
+92.55.47.205 0 1 182982 
+199.249.223.71 3 3 101738 20170618155129
+163.172.151.47 1 1 49428 20170618154609
+46.164.142.34 94 551 26927276 20170619121155
+65.19.167.132 3 3 148284 20170618155037
+93.115.95.201 2 2 98856 20170618155011
+155.93.144.134 1 1 2882 20170618154927
+163.172.212.115 5 5 154048 20170618155108
+94.23.173.249 4 4 151166 20170618154843
+162.247.72.216 2 2 98856 20170618154743
+163.172.101.137 4 4 197712 20170618155257
+18.248.2.85 2 2 98856 20170618154606
+95.211.230.94 3 3 101738 20170618154757
+93.190.140.86 4 4 151166 20170618154841
+93.190.140.50 2 2 98856 20170618155108
+130.226.169.137 7 7 299450 20170618154602
+185.86.13.213 2 2 6413 20170628034737
+46.105.100.149 1 1 2882 20170618154559
+115.218.187.88 1 1 50473 20170627084333
+54.90.213.45 1 1 49524 20170619150025
+54.149.38.183 1 1 50473 20170623141254
+36.63.166.163 1 1 40291 20170627083800
+202.46.58.119 1 1 49761 20170620065059
+65.19.167.131 5 5 200594 20170618155116
+202.46.58.131 1 1 48853 20170613202404
+192.195.80.10 1 1 49428 20170618154636
+51.15.79.107 2 2 52310 20170618154414
+154.127.60.92 2 2 98856 20170618155421
+163.172.223.200 1 1 49428 20170618155252
+203.186.72.74 2 2 6452 20170621144529
+37.1.207.21 1 1 50473 20170624225728
+185.70.186.177 2 2 277208 20170630172600
+194.44.247.218 1 1 50473 20170624112757
+70.39.246.37 13 13 621927 20170619150436
+93.78.33.47 52 127 4442993 20170625200013
+109.163.234.2 1 1 49428 20170618154855
+193.15.16.4 4 4 151166 20170618154939
+95.133.55.33 4 74 3128183 20170616093946
+61.183.181.228 1 1 49428 20170618144302
+190.219.180.66 1 1 50473 20170627084216
+192.160.102.168 7 7 299450 20170618155644
+78.189.239.42 1 1 50473 20170627084006
+93.174.93.133 5 5 200594 20170618154355
+185.38.164.219 1 1 3740 20170616204817
+124.207.57.146 2 2 6452 20170624150632
+51.255.196.218 4 4 197712 20170618154935
+97.74.237.196 1 1 49428 20170618155402
+80.67.172.162 2 2 98856 20170618154943
+51.255.202.66 3 3 101738 20170618155027
+178.140.236.240 5 52 1478789 20170625161019
+79.124.59.202 6 6 250022 20170618155000
+45.76.67.94 21 21 697097 20170625064427
+131.161.9.200 1 1 49428 20170618095641
+113.244.84.48 1 1 50473 20170627084247
+93.115.95.216 1 1 49428 20170618155145
+94.142.242.84 1 1 49428 20170618155102
+128.52.128.105 3 3 148284 20170618154422
+178.137.93.247 1 1 50473 20170629145815
+166.70.207.2 3 3 148284 20170618154409
+46.211.252.241 3 29 829624 20170628135222
+176.10.104.240 4 4 151166 20170618154740
+161.69.99.11 11 55 1423993 20170619070813
+193.90.12.86 2 2 98856 20170618154633
+107.170.96.6 1 1 1388 20170627083611
+185.20.185.139 5 5 247140 20170618154555
+185.206.145.57 7 7 706909 20170629234317
+171.25.193.77 3 3 148284 20170618154803
+95.170.134.206 0 2 142162 
+85.248.227.165 4 4 197712 20170618155137
+35.192.14.36 1 1 49401 20170616171657
+77.41.114.205 4 50 1464486 20170628120923
+202.46.58.198 1 1 49761 20170620080811
+62.210.115.87 4 4 151166 20170618154753
+176.126.252.11 3 3 101738 20170618155121
+131.161.11.253 1 1 49950 20170621085607
+131.161.10.202 1 1 50473 20170630045049
+185.117.73.69 2 2 100946 20170624101814
+80.14.91.141 2 4 99296 20170615205022
+35.192.46.54 1 1 49401 20170616132009
+198.245.60.8 1 1 49428 20170618154609
+113.240.249.19 2 2 6452 20170627084904
+60.144.54.66 1 1 40064 20170618103318
+185.119.81.50 2 2 6452 20170629101316
+202.46.51.28 1 1 50473 20170624073750
+194.44.127.155 41 211 3725252 20170615120140
+222.41.92.94 2 2 6452 20170627083940
+201.18.18.173 15 15 858817 20170619075544
+103.228.117.243 1 1 49428 20170618120429
+202.46.52.68 1 1 50473 20170623184818
+206.180.165.146 1 1 50473 20170625014826
+51.15.56.11 1 1 2882 20170618155240
+199.249.223.60 2 2 98856 20170618154643
+209.107.196.169 2 2 52832 20170621072650
+146.185.177.103 2 2 98856 20170618155159
+119.224.93.249 1 1 49428 20170618103254
+37.139.8.104 1 1 49428 20170618155146
+51.15.53.83 3 3 101738 20170618155050
+104.223.123.98 9 9 351760 20170618155154
+185.100.85.101 4 4 151166 20170618154604
+163.172.151.250 3 3 101738 20170618155116
+160.202.163.147 3 3 8136 20170625012757
+185.119.81.11 2 2 6413 20170630064959
+46.17.97.112 1 1 49428 20170618154859
+79.172.193.32 2 2 98856 20170618154846
+185.86.167.4 2 2 6413 20170623022853
+78.85.148.127 2 2 99326 20170622232840
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20170613 792 852 4949516 5
+20170614 6035 6547 46106089 15
+20170615 146 593 17756834 10
+20170616 397 1599 90547298 17
+20170617 19 97 3815245 7
+20170618 1846 2842 63670325 103
+20170619 722 3201 151290639 19
+20170620 29 89 4587535 6
+20170621 142 612 21806865 13
+20170622 1912 2861 48896922 9
+20170623 1762 1858 11723340 15
+20170624 2955 2955 11440306 18
+20170625 3204 3405 21567537 13
+20170626 2095 3280 78237757 9
+20170627 313 1092 49881528 18
+20170628 20 145 4090867 11
+20170629 17 17 874528 9
+20170630 21 102 4418179 7
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 22427 32147 635661310
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+"" 1 1 50473 20170626110302
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+wordpress 978 0 20170630235145 0
+yandex 397 11377989 20170630234445 63
+mj12bot 160 4190241 20170630144950 23
+bingbot 141 3969375 20170625104736 7
+googlebot 106 3057672 20170629070125 15
+feedburner 35 666831 20170630232653 0
+xovibot 21 732786 20170628200413 0
+dotbot 17 102976 20170630094837 14
+bingpreview 17 425455 20170625114804 0
+googlebot\-image 13 1195524 20170629072534 0
+facebook 12 1572474 20170621144808 0
+python 1 0 20170630225332 0
+^java\/[0-9] 4 156934 20170621043129 0
+bot[\s_+:,\.\;\/\\-] 5 49562 20170630162644 2
+unknown 4 268 20170629233809 4
+ruby\/ 2 2760 20170630153807 0
+surveybot 2 50540 20170623004110 1
+baiduspider 1 31842 20170622160339 0
+no_user_agent 10 296056 20170629013231 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 11
+30s-2mn 7
+15mn-30mn 5
+1h+ 12
+2mn-5mn 16
+0s-30s 242
+5mn-15mn 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 69
+/wp-login.php 12830 47651442 45 49
+/xmlrpc.php 4601 5006059 45 49
+//wp-login.php 1916 7163784 2 2
+/wp-admin/admin-ajax.php 1109 8568139 0 9
+/ 427 21961296 177 141
+/wp-content/themes/betheme/style.php 372 964596 0 20
+/wp-content/themes/betheme/style-colors.php 371 6900229 0 5
+/wp-admin/post.php 228 350337507 1 0
+/solnce/montazh-solnechnoj-elektrostancii/ 44 1995016 3 0
+/wp-admin/edit.php 44 6145845 1 0
+/elektrozashhita/montazh-zazemleniya/ 12 418547 1 0
+/wp-admin/nav-menus.php 3 1058556 0 0
+/avto/ 2 50864 0 0
+/elektrozashhita/ 2 51060 0 0
+/elektrozashhita/montazh-molniezashhity/ 16 671468 4 0
+/veter/montazh-vetrogeneratorov/ 5 157499 0 0
+/contact/ 13 476187 0 0
+/veter/zelyonyj-tarif/ 10 384962 4 1
+/wp-content/themes/betheme/fonts/mfn-icons.eot 2 171184 0 2
+/solnce/proektirovanie/ 14 511373 0 0
+/veter/machta-spectrmast/ 10 380174 0 1
+/comments/feed/ 6 5106 0 0
+/author/admin/ 7 280837 2 2
+/wp-admin/edit-tags.php 1 78759 0 0
+/wp-admin/ 20 1486660 1 0
+/wp-includes/wlwmanifest.xml 9 9405 0 0
+/wp-admin/customize.php 2 789786 0 0
+/wp-admin/async-upload.php 29 106763 0 0
+/avto/elektroavtomobili/ 11 423694 0 0
+/wp-admin/load-styles.php 15 3142166 0 0
+/zakon-o-rynke-elektroenergii-kotoryj-podpisal-prezident-ukrainy-vstupil-v-silu/ 2 102003 0 0
+/elektrotexnicheskaya-laboratoriya/ 1 44280 0 0
+/mask-zayavil-pro-sensacionnye-novacii-v-tesla/ 1 49376 0 0
+/wp-admin/widgets.php 7 1003078 0 0
+/veter/proektirovanie/ 4 131005 0 0
+/elektrozashhita/audit/ 18 841710 1 0
+/wp-admin/post-new.php 11 12710498 0 0
+/elektrozashhita/proektirovanie-elektrozashhity/ 7 238010 0 0
+/sample-page/feed/ 6 4614 0 1
+/wp-admin/load-scripts.php 34 11886800 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff 8 130904 0 0
+/chto-takoe-zazemlenie-dlya-prodvinutyx-polzovatelej/ 2 86908 0 0
+/solnechnye-paneli/ 4 156766 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff 3 15072 0 0
+/avto/elektrozapravka-ecospectr/ 7 270706 0 0
+/otoplenie/ 2 60265 0 0
+/otoplenie/montazh-elektrootopleniya/ 7 247422 0 0
+/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%b8-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d1%8d%d0%bd%d0%b5%d1%80%d0%b3%d0%b8%d0%b8-ecospectr/ 1 43819 0 0
+/wp-content/themes/betheme/fonts/mfn-icons.woff 30 1214724 0 9
+/veter/ 5 135941 0 0
+/our-university/ 1 42568 0 0
+/otoplenie/proektirovanie-otopleniya/ 2 70735 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot 1 12136 0 0
+/wp-admin/themes.php 3 1916903 0 0
+/o-nas/ 18 708373 6 1
+/wp-content/index.php 1 0 1 1
+/feed/ 17 809345 5 8
+/wp-json/oembed/1.0/embed 12 33288 0 0
+/solnce/zelyonyj-tarif/ 18 839798 1 0
+/vasha-krovlya-idealna/ 2 80102 1 1
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 5 17204 0 0
+/solnce/solnechnye-kollektory/ 16 734623 0 0
+/solnce/ 7 205501 0 0
+/wp-admin/options-discussion.php 1 65951 0 0
+/wp-admin/upload.php 17 1987172 2 0
+/podvodnye-kamni-ustanovki-bojlerov-vmesto-centralizovannogo-goryachego-vodosnabzheniya/ 5 277894 0 0
+/wp-admin/media-new.php 1 61036 0 0
+/wp-admin/index.php 3 224595 0 0
+/wp-json/ 6 8328 1 2
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+png 1262 23301215 0 0
+eot 3 183320 0 0
+php 21599 467769664 0 0
+css 2297 38750420 0 0
+Unknown 12 33288 0 0
+woff 46 1377904 0 0
+html 758 35444835 0 0
+jpg 1003 22738217 0 0
+svg 3 4563 0 0
+js 5036 45354201 0 0
+txt 2 1590 0 0
+jpeg 33 494811 0 0
+gif 84 197877 0 0
+xml 9 9405 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/contact-form-7/license.txt 2 0 1590
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+ios_iphone 1790 212
+win8.1 2 2
+winnt 6 6
+ios_ipad 250 40
+win8 61 15
+win10 3460 3460
+macosx6 23 23
+win2000 8 8
+macosx11 1 1
+macosx9 5 5
+linuxandroid 85 5
+macosx10 1 1
+linuxubuntu 1 0
+macosx5 1 1
+win7 22998 17593
+macosx 145 8
+win16 5 5
+winxp 3206 1017
+linux 4 3
+Unknown 95 22
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 63
+firefox6.0.2 4 4
+chrome37.0.2062.120 1 1
+firefox15.0.1 1 1
+chrome59.0.3071.86 73 4
+safari8.0 1638 192
+chrome45.0.2454.93 18 18
+chrome55.0.2883.95 1 1
+firefox3.6.8 23 23
+firefox24.0 1 1
+chrome11.0.696.34 1 0
+netscape5.0 13 13
+chrome30.0.0.0 74 4
+msie10.0 62 16
+chrome59.0.3071.109 72 4
+chrome53.0.2785.89 1 1
+firefox33.0 4 4
+chrome34.0.1847.137 1 1
+chrome40.0.2214.115 1 1
+firefox52.0 2 0
+chrome58.0.3029.83 1 0
+firefox50.0 36 36
+firefox41.0 1 1
+chrome54.0.2840.71 2 2
+msie6.0 40 40
+firefox7.0.1 264 264
+safari10.0 91 13
+chrome49.0.2623.112 2827 687
+chrome51.0.2704.103 10 10
+msie8.0 381 70
+chrome58.0.3029.110 6653 1674
+msie11.0 1 1
+chrome56.0.2924.87 1 1
+chrome17.0.963.66 1 1
+firefox29.0 22 22
+firefox30.0 1 1
+chrome57.0.2987.133 1 1
+firefox18.0 3912 3912
+opera12.16 79 6
+firefox3.5.6 2 2
+firefox32.0 1 0
+opera41.9.4224.9951 3 3
+chrome46.0.2490.80 3392 3392
+chrome39.0.2171.99 1 1
+chrome13.0.782.41 1 0
+msie9.0 11875 11875
+firefox35.0 1 1
+iphone 61 7
+chrome41.0.2228.0 1 1
+Unknown 3 3
+chrome39.0.2171.95 2 2
+chrome58.0.3029.81 2 2
+opera12.17 4 4
+firefox34.0 2 2
+chrome36.0.1985.143 2 2
+firefox3.0 1 1
+firefox51.0 1 1
+chrome17.0.963.56 1 1
+safari9.0 250 40
+firefox40.0 1 1
+chrome33.0.1750.152 5 5
+firefox17.0 8 8
+firefox43.0 1 1
+opera12.18 211 41
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+HEADMasterSEO 20170621190056
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20170619150436
+redback/v0-570-g26f8c96 20170617161455
+Opera/9.80_(Android;_Opera_Mini/20.0.2254/64.228;_U;_uk)_Presto/2.12.423_Version/12.16 20170621144819
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+redback/v0-570-g26f8c96 20170617161455
+HEADMasterSEO 20170621190056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13065 13093
+From1 2 2
+From2 13 15
+From3 5 5
+From4 9342 19032
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 11 13
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.facebook.com 2 2
+http://burger-imperia.com 1 1
+http://m.facebook.com 1 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+405 6 252
+500 20 29875
+206 6 23408
+404 1007 10568317
+301 196 0
+302 163 916
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 278
+/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 3 -
+/wp-content/uploads/solarinstal-1200x400@2x.jpg 1 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/news.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/de/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 3 -
+/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 3 -
+/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 3 -
+/wp-content/plugins/BirdsRio.php 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/revslider/sfn.php 1 -
+/wp-log-7.php 1 -
+/fr/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 3 -
+/wp-content/plugins/console_contact_form/upload_file.php 1 -
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B8-%25D1%2582%25D0%25B5%25D0%25BF%25D0%25BB%25D0%25BE-%25D0%25B2-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5-www.ecospectr.com_-80x80@2x.jpg 7 http://ecospectr.com/zakon-o-rynke-elektroenergii-kotoryj-podpisal-prezident-ukrainy-vstupil-v-silu/
+/post.php 1 -
+/wp-content/plugins/wpstorecart/readme.txt 1 http://ecospectr.com/wp-content/plugins/wpstorecart/readme.txt
+/wp-content/indes.php 1 http://ecospectr.com/wp-content/indes.php
+/de/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 3 -
+/wp-content/uploads/image-80x80@2x.jpg 2 http://ecospectr.com/o-nas/
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/themes/error-log.php 2 http://ecospectr.com/wp-content/themes/error-log.php
+/fr/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/uploads/123@2x.jpg 9 http://ecospectr.com/
+/de/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 3 -
+/wp-content/uploads/%25D0%259F%25D0%25B0%25D1%2581%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B0%25D1%258F-%25D0%25BC%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B8%25D0%25B5%25D0%25B7%25D0%25B0%25D1%2589%25D0%25B8%25D1%2582%25D0%25B0@2x.jpg 4 http://ecospectr.com/elektrozashhita/montazh-molniezashhity/
+/wp-content/plugins/SocketIontrol.php 1 -
+/user/register 44 -
+/ru/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 3 -
+/blog/robots.txt 1 -
+/ru/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/uploads/tesla-elon-musk-1200%25D1%2585800-80x80@2x.jpg 9 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/de/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/uploads/%D0%92%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-www.ecospectr.com_-960x750@2x.jpg 2 http://ecospectr.com/
+/de/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 3 -
+/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 3 -
+/news/wp-admin/setup-config.php 1 -
+/ru/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 3 -
+/ru/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 3 -
+/ru/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 3 -
+/wp-content/uploads/%25D0%259A%25D0%25BE%25D0%25BC%25D0%25B0%25D0%25BD%25D0%25B4%25D0%25B0-ECOSPECTR-Co@2x.jpg 9 http://ecospectr.com/o-nas/
+/ru/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/error.php 1 -
+/wp-content/plugins/front-end-editor/lib/aloha-editor/plugins/extra/draganddropfiles/demo/wp-classes.php 1 http://ecospectr.com/wp-content/plugins/front-end-editor/lib/aloha-editor/plugins/extra/draganddropfiles/demo/wp-classes.php
+/wp-content/plugins/myshe.php 2 http://ecospectr.com/wp-content/plugins/myshe.php
+/ru/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 3 -
+/wp-content/plugins/easyrotator-for-wordpress/a.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cache.php 1 -
+/apple-touch-icon-120x120.png 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/11.php 1 -
+/wp-content/uploads/%25D0%2590%25D1%2583%25D0%25B4%25D0%25B8%25D1%2582-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%2581%25D0%25B5%25D1%2582%25D0%25B5%25D0%25B9.-2-80x80@2x.jpg 17 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/wp-content/plugins/szalog.php 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/uploads/2016/03/pic3.jpg 1 -
+/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-sbb.php 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/fr/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 4 -
+/apple-touch-icon.png 2 -
+/ru/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 3 -
+/es/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 3 -
+/wp-content/uploads/image-2-50x40.jpg 1 -
+/wp-content/uploads/2016/03/pic.jpg 1 -
+/wp-content/uploads/%25D0%2592%25D0%25B5%25D1%2582%25D1%2580%25D0%25BE%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580-www.ecospectr.com_-80x80@2x.jpg 5 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/uploads/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84-1200%D1%85400.jpg 2 http://ecospectr.com/wp-admin/post.php
+/es/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 3 -
+/ru/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 3 -
+/wp-content/plugins/ubh/up.php 1 http://ecospectr.com/wp-content/plugins/ubh/up.php
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0-80x80@2x.jpg 2 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/uploads/Installing-Solar-Panels-544%D1%85385@2x.jpg 1 http://ecospectr.com/
+/veter/zelyonyj-tarif__trashed/ 7 -
+/fr/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 3 -
+/wp-content/plugins/plugin/info.php 1 -
+/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 3 -
+/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 3 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/fr/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 4 -
+/es/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 3 -
+/de/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 3 -
+/fr/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 3 -
+/language/en-GB/en-GB.xml 1 -
+/wp-content/plugins/contact-form-7/images/ajax-loader@2x.gif 1 http://ecospectr.com/contact/
+/ru/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 3 -
+/wp-content/uploads/logo_main@2x.png 51 http://ecospectr.com/contact/
+/functions.php 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/fr/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 3 -
+/es/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 3 -
+/wp-content/uploads/tesla-elon-musk-1200%D1%85800-960x750@2x.jpg 2 http://ecospectr.com/
+/2016/02/25/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D0%B8%D1%80/feed/ 3 -
+/de/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 3 -
+/wp-content/plugins/log.php 2 http://ecospectr.com/wp-content/plugins/log.php
+/de/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/es/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 3 -
+/fr/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 3 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/plugins/php-event-calendar/readme.txt 2 http://www.google.com/
+/de/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 3 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/uploads/Gas_Electricity_Split_544%D1%85385@2x.jpg 1 http://ecospectr.com/
+/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 3 -
+/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 3 -
+/ru/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 3 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 2 http://ecospectr.com/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/de/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 3 -
+/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 3 -
+/wp-content/plugins/woocommerce-product-options/includes/image-upload.php 1 -
+/wp-content/uploads/image-2-300x241.jpg 1 -
+/de/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 3 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/es/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/uploads/image-219x146.jpg 1 -
+/new/wp-admin/setup-config.php 1 -
+/wp-includes/class.wp-tmps.php 1 -
+/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/ 3 -
+/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/includes/upload.php 2 http://www.google.com/
+/fr/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 3 -
+/wp-content/plugins/wp-conns.php 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/uploads/image-195x146.jpeg 1 -
+/license.php 1 -
+/uploadify/uploadify.php 1 -
+/wp-content/uploads/image-960x750@2x.jpeg 1 http://ecospectr.com/author/admin/
+/wp-content/uploads/%25D0%2593%25D0%25B8%25D0%25B1%25D1%2580%25D0%25B8%25D0%25B4%25D0%25BD%25D0%25B0%25D1%258F-%25D1%2581%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B5%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F-%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D1%2586%25D 1 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/tiny_mce/plugins/tinybrowser/upload_file.php 1 -
+/ru/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 3 -
+/wp-content/uploads/image-50x33.jpg 1 -
+/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D1%83%D1%81%D0%BB%D1%83%D0%B3/ 3 -
+/wp-includes/SimplePie/Decode/HTML/bug.php 1 -
+/wp-content/uploads/image-960x630@2x.jpg 2 http://ecospectr.com/zakon-o-rynke-elektroenergii-kotoryj-podpisal-prezident-ukrainy-vstupil-v-silu/
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/es/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 3 -
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B8-%25D1%2582%25D0%25B5%25D0%25BF%25D0%25BB%25D0%25BE-%25D0%25B2-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5-www.ecospectr.com_-960x750@2x.jpg 13 http://ecospectr.com/zakon-o-rynke-elektroenergii-kotoryj-podpisal-prezident-ukrainy-vstupil-v-silu/
+/maill.php 1 http://ecospectr.com/maill.php
+/fr/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 3 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/wp-content/uploads/banner2@2x.png 13 http://ecospectr.com/
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/de/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/fr/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 3 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-cokd.php 1 -
+/wp-content/themes/brainstorm/style.css 1 http://ecospectr.com/wp-content/themes/brainstorm/style.css
+/wp-content/uploads/Installing-Solar-Panels-544%25D1%2585385@2x.jpg 3 http://ecospectr.com/
+/wp-content/uploads/tesla-elon-musk-1200%25D1%2585800-960x750@2x.jpg 3 http://ecospectr.com/
+/ru/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 3 -
+/wp-content/plugins/revslider/temp/update_extract/sfn.php 1 -
+/wp-content/uploads/image-300x225.jpeg 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0-960x750@2x.jpg 16 http://ecospectr.com/
+/wp-content/uploads/%25D0%2590%25D1%2583%25D0%25B4%25D0%25B8%25D1%2582-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%2581%25D0%25B5%25D1%2582%25D0%25B5%25D0%25B9.-2-960x750@2x.jpg 10 http://ecospectr.com/
+/wp-content/uploads/sfn.php 1 -
+/de/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9-%D1%82%D0%B0%D1%80%D0%B8%D1%84/ 3 -
+/wp-content/uploads/2015/03/home_university_tabber_2@2x.jpg 9 http://ecospectr.com/
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/fr/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 3 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/uploads/%25D0%2590%25D0%25B2%25D1%2582%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25BD%25D0%25B0%25D1%258F-%25D1%2581%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B5%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D 1 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0-80x80@2x.jpg 17 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 3 -
+/wp-content/uploads/image-50x38.jpeg 1 -
+/wp-content/uploads/2015/03/home_university_tabber_4@2x.jpg 9 http://ecospectr.com/
+/wp-content/uploads/2016/03/pic-300x101.jpg 1 -
+/fr/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 3 -
+/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 4 -
+/es/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 3 -
+/wp-content/uploads/image-2-182x146.jpg 1 -
+/wp-content/uploads/%25D0%259C%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B8%25D1%258F-1200%25D1%2585400@2x.jpeg 4 http://ecospectr.com/elektrozashhita/montazh-molniezashhity/
+/wp-content/uploads/%D0%97%D0%B0%D0%BC%D0%B5%D1%80%D1%8B-%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%B8-2-1200%D1%85400@2x.jpg 1 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-content/plugins/users-ultra/readme.txt 1 -
+/es/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 4 -
+/ru/%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-admin/logo_img.php 1 http://ecospectr.com/wp-admin/logo_img.php
+/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/ 3 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/uploads/image-2-93x75.jpg 1 -
+/wp-content/uploads/%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0-1200x480@2x.jpg 1 http://ecospectr.com/zakon-o-rynke-elektroenergii-kotoryj-podpisal-prezident-ukrainy-vstupil-v-silu/
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+/wp-content/uploads/2015/03/home_university_students@2x.png 15 http://ecospectr.com/
+/wp-content/uploads/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8-544%D1%85385@2x.jpg 2 http://ecospectr.com/
+/wp-content/plugins/500.php 2 http://ecospectr.com/wp-content/plugins/500.php
+/wp-content/uploads/%25D0%25A1%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B5%25D1%2587%25D0%25BD%25D1%258B%25D0%25B5-%25D0%25BF%25D0%25B0%25D0%25BD%25D0%25B5%25D0%25BB%25D0%25B8-%25D0%25BD%25D0%25B0-%25D0%25BA%25D1%2580%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5-ww 1 http://ecospectr.com/vasha-krovlya-idealna/
+/wp-content/uploads/%25D0%2597%25D0%25B0%25D0%25BC%25D0%25B5%25D1%2580%25D1%258B-%25D1%2581%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F-%25D0%25B8%25D0%25B7%25D0%25BE%25D0%25BB%25D 3 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/plugins/Malions.php 1 -
+/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 3 -
+/joomla/robots.txt 1 -
+/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 3 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/es/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 3 -
+/de/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B5%D0%B9/ 3 -
+/wp-includes/images/media/rss.php 2 http://ecospectr.com/wp-includes/images/media/rss.php
+/wp-content/uploads/image-100x75.jpeg 1 -
+/es/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 3 -
+/searchreplacedb2.php 1 -
+/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/ 3 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/es/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 3 -
+/wp-content/uploads/Ford-Focus-Electric-www.ecospectr.com_-80x80@2x.jpg 1 http://ecospectr.com/vasha-krovlya-idealna/
+/wp-content/uploads/image-300x200.jpg 1 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 1 -
+/backups.php 1 -
+/fr/%D0%B7%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/ 3 -
+/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 3 -
+/wp-content/uploads/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-www.ecospectr.com_-80x80@2x.jpg 2 http://ecospectr.com/elektrozashhita/audit/
+/wp-content/plugins/caches.php 1 -
+/wp-includes/pomo/hdweb.php 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-content/plugins/wp-mobile-detector/cache/cache.php 1 -
+/wp-content/uploads/2014/11/2-300x75.jpg 1 -
+/rus.png 1 -
+/update.php 1 -
+/wp-content/uploads/2015/03/home_university_tabber_3@2x.jpg 14 http://ecospectr.com/
+/ru/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/ 2 -
+/wp-content/uploads/2015/03/home_university_tabber_5@2x.jpg 14 http://ecospectr.com/
+/fr/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/fr/%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 3 -
+/beta/wp-admin/setup-config.php 1 -
+/es/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/ 3 -
+/es/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/wp-content/uploads/Gas_Electricity_Split_544%25D1%2585385@2x.jpg 3 http://ecospectr.com/
+/wp-content/uploads/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-www.ecospectr.com_-960x750@2x.jpg 2 http://ecospectr.com/
+/comments.php 1 -
+/ru/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 3 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 3 -
+/wp-content/common.php 1 -
+/es/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 3 -
+/wp-content/uploads/image-2.jpg 1 -
+/blogs/wp-admin/setup-config.php 1 -
+/wp-content/uploads/%25D0%2593%25D0%25B8%25D0%25B1%25D1%2580%25D0%25B8%25D0%25B4%25D0%25BD%25D0%25B0%25D1%258F-%25D1%2581%25D0%25B8%25D1%2581%25D1%2582%25D0%25B5%25D0%25BC%25D0%25B0-ECOSPECTR-80x80@2x.jpg 1 http://ecospectr.com/vasha-krovlya-idealna/
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/fr/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/ 3 -
+/infos.php 1 -
+/tong.php 1 -
+/de/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 3 -
+/yjh.php 2 http://ecospectr.com/yjh.php
+/wp-content/uploads/%D0%92%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-www.ecospectr.com_-80x80@2x.jpg 1 http://ecospectr.com/elektrozashhita/audit/
+/ru/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 3 -
+/es/%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BC/ 3 -
+/wp-content/uploads/%D0%90%D1%83%D0%B4%D0%B8%D1%82-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9.-2-960x750@2x.jpg 2 http://ecospectr.com/
+/de/%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/ 3 -
+/de/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 3 -
+/wp-content/plugins/easyrotator-for-wordpress/b.php 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 1 -
+/%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/ 3 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/ 210 http://ecospectr.com/
+/wp-content/uploads/image-113x75.jpg 1 -
+/es/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8/ 3 -
+/wp-content/uploads/image.jpg 1 -
+/de/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8/ 3 -
+/fr/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0/ 3 -
+/wp-content/plugins/Wp-LayerSlider/layerslider.php 1 -
+/ukr 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/Tobey.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/de/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 3 -
+/wp-content/uploads/%25D0%2592%25D0%25B5%25D1%2582%25D1%2580%25D0%25BE%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580-www.ecospectr.com_-960x750@2x.jpg 7 http://ecospectr.com/
+/wp-content/uploads/%25D0%2598%25D0%25BD%25D0%25B2%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2586%25D0%25B8%25D0%25B8-544%25D1%2585385@2x.jpg 3 http://ecospectr.com/
+/wp-content/plugins/contact-form-7/login.php 2 http://ecospectr.com/wp-content/plugins/contact-form-7/login.php
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/all-in-one-seo/all-in-one-seo.php 1 -
+/fr/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B/ 3 -
+/wp-content/uploads/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0-960x750@2x.jpg 4 http://ecospectr.com/
+/es/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/ 3 -
+/es/%D0%BC%D0%B0%D1%87%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/ 3 -
+/sfn.php 2 -
+/wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php 1 -
+/wp-content/uploads/%25D0%2590%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B0%25D1%258F-%25D0%25BC%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B8%25D0%25B5%25D0%25B7%25D0%25B0%25D1%2589%25D0%25B8%25D1%2582%25D0%25B0@2x.jpg 4 http://ecospectr.com/elektrozashhita/montazh-molniezashhity/
+/wp-content/uploads/%25D0%25A1%25D0%25B5%25D1%2582%25D0%25B5%25D0%25B2%25D0%25B0%25D1%258F-%25D1%2581%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B5%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F-%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D 1 http://ecospectr.com/solnce/montazh-solnechnoj-elektrostancii/
+END_SIDER_404
